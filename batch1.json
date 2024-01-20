@@ -1,0 +1,759 @@
+[
+    {"name": "Pork, roasted, separable fat (from ham and arm picnic), cured", "calories": 591.0, "total_fat": 62.0, "sodium": null, "protein": 7.64, "sugars": 0.0, "carbohydrate": 0.0},
+    {"name": "Cereals ready-to-eat, KELLOGG'S APPLE JACKS with marshmallows", "calories": 378, "total_fat": 2.8, "sodium": null, "protein": 4.3, "sugars": 51.1, "carbohydrate": 89.6},
+    {"name": "Chicken, roasted, cooked, meat only, wing, broilers or fryers", "calories": 203, "total_fat": 8.1, "sodium": null, "protein": 30.46, "sugars": 0.0, "carbohydrate": 0.0},
+    {"name": "Cereals ready-to-eat, CAP'N CRUNCH'S Halloween Crunch, QUAKER", "calories": 402, "total_fat": 5.7, "sodium": null, "protein": 4.41, "sugars": 43.82, "carbohydrate": 85.14},
+    {"name": "Potatoes, dry form, granules without milk, dehydrated, mashed", "calories": 372, "total_fat": 0.5, "sodium": null, "protein": 8.22, "sugars": 3.47, "carbohydrate": 85.51},
+    {"name": "Seal, partially dried (Alaska Native), meat, bearded (Oogruk)", "calories": 270, "total_fat": 2.3, "sodium": null, "protein": 62.38, "sugars": 0.0, "carbohydrate": 0.0},
+    {"name": "Cereals, dry, enriched, regular and quick, yellow, corn grits", "calories": 368, "total_fat": 1.5, "sodium": null, "protein": 6.72, "sugars": 0.55, "carbohydrate": 79.91}, 
+    {"name": "CRUNCHMASTER, Gluten-Free, Snack Crackers, Multi-Grain Crisps", "calories": 456, "total_fat": 16.0, "sodium": null, "protein": 10.91, "sugars": 0.8, "carbohydrate": 67.18}, 
+    {"name": "Pork, raw, frozen, ears, variety meats and by-products, fresh", "calories": 234, "total_fat": 15.0, "sodium": null, "protein": 22.45, "sugars": 0.0, "carbohydrate": 0.6}, {"name": "Seeds, without salt, roasted, whole, pumpkin and squash seeds", "calories": 446, "total_fat": 19.0, "sodium": null, "protein": 18.55, "sugars": 0.0, "carbohydrate": 53.75}, {"name": "Beverages, fortified with vitamin C, light, Apple juice drink", "calories": 22, "total_fat": 0.1, "sodium": null, "protein": 0.0, "sugars": 4.8, "carbohydrate": 5.1}, {"name": "Mollusks, made from surimi, imitation, mixed species, scallop", "calories": 99, "total_fat": 0.4, "sodium": null, "protein": 12.77, "sugars": 0.0, "carbohydrate": 10.62}, {"name": "Milk, with added vitamin A and vitamin D, fat free, chocolate", "calories": 67, "total_fat": 0.0, "sodium": null, "protein": 3.39, "sugars": 9.32, "carbohydrate": 13.46}, {"name": "Peaches, solids and liquids, heavy syrup pack, canned, spiced", "calories": 75, "total_fat": 0.1, "sodium": null, "protein": 0.41, "sugars": 18.78, "carbohydrate": 20.08}, {"name": "Chicken, not reheated, frozen, precooked, white meat, nuggets", "calories": 261, "total_fat": 15.0, "sodium": null, "protein": 14.36, "sugars": 1.27, "carbohydrate": 16.24}, {"name": "Turkey from whole, roasted, cooked, meat and skin, light meat", "calories": 177, "total_fat": 5.6, "sodium": null, "protein": 29.55, "sugars": 0.0, "carbohydrate": 0.05}, {"name": "Babyfood, toddler, chicken and noodle with vegetables, dinner", "calories": 66, "total_fat": 1.7, "sodium": null, "protein": 3.8, "sugars": 0.82, "carbohydrate": 8.89}, {"name": "Crustaceans, breaded and fried, cooked, mixed species, shrimp", "calories": 242, "total_fat": 12.0, "sodium": null, "protein": 21.39, "sugars": 0.8, "carbohydrate": 11.47}, {"name": "Bread, refrigerated, commercially prepared, whole wheat, naan", "calories": 286, "total_fat": 6.7, "sodium": null, "protein": 10.2, "sugars": 3.4, "carbohydrate": 46.21}, {"name": "Cereals, banana bread, Weight Control Instant Oatmeal, QUAKER", "calories": 361, "total_fat": 6.2, "sodium": null, "protein": 16.5, "sugars": 1.29, "carbohydrate": 64.42}, {"name": "Cereals, dry, maple and brown sugar, fortified, instant, oats", "calories": 368, "total_fat": 4.7, "sodium": null, "protein": 9.25, "sugars": 30.28, "carbohydrate": 76.67}, {"name": "Fast Foods, meat and skin and breading, Breast, Fried Chicken", "calories": 230, "total_fat": 12.0, "sodium": null, "protein": 23.51, "sugars": 0.0, "carbohydrate": 6.03}, {"name": "Lamb, soaked and fried, cooked, testes, imported, New Zealand", "calories": 125, "total_fat": 4.6, "sodium": null, "protein": 21.01, "sugars": 0.0, "carbohydrate": 0.0}, {"name": "Lamb, soaked and fried, cooked, brains, imported, New Zealand", "calories": 154, "total_fat": 11.0, "sodium": null, "protein": 14.03, "sugars": 0.0, "carbohydrate": 0.0}, {"name": "Margarine-like, with salt, tub, 60% fat, vegetable oil spread", "calories": 533, "total_fat": 60.0, "sodium": null, "protein": 0.17, "sugars": 0.0, "carbohydrate": 0.86}, {"name": "Babyfood, strained, with applesauce and bananas, rice, cereal", "calories": 80, "total_fat": 0.4, "sodium": null, "protein": 1.2, "sugars": 2.24, "carbohydrate": 17.1}, 
+    {"name": "Seeds, without salt, roasted, pumpkin and squash seed kernels", "calories": 574, "total_fat": 49.0, "sodium": null, "protein": 29.84, "sugars": 1.29, "carbohydrate": 14.71}, {"name": "Corn, unprepared, kernels cut off cob, frozen, yellow, sweet", "calories": 88, "total_fat": 0.8, "sodium": null, "protein": 3.02, "sugars": 2.5, "carbohydrate": 20.71}, {"name": "Chicken, flour, fried, cooked, skin only, broilers or fryers", "calories": 502, "total_fat": 43.0, "sodium": null, "protein": 19.09, "sugars": 0.0, "carbohydrate": 9.34}, {"name": "Beverages, Ready-to-Drink, Nutritional Shake, ENSURE, ABBOTT", "calories": 105, "total_fat": 2.5, "sodium": null, "protein": 3.8, "sugars": 9.7, "carbohydrate": 16.88}, {"name": "Cheese, low sodium, cheddar or American, pasteurized process", "calories": 376, "total_fat": 31.0, "sodium": null, "protein": 22.2, "sugars": 0.45, "carbohydrate": 1.6}, {"name": "Fish, smoked (Alaska Native), canned, (sockeye), red, salmon", "calories": 206, "total_fat": 7.3, "sodium": null, "protein": 35.19, "sugars": 0.0, "carbohydrate": 0.0}, {"name": "Veal, braised, cooked, thymus, variety meats and by-products", "calories": 125, "total_fat": 3.1, "sodium": null, "protein": 22.67, "sugars": 0.0, "carbohydrate": 0.0}, {"name": "Veal, braised, cooked, spleen, variety meats and by-products", "calories": 129, "total_fat": 2.9, "sodium": null, "protein": 24.08, "sugars": 0.0, "carbohydrate": 0.0}, {"name": "Lamb, braised, cooked, spleen, variety meats and by-products", "calories": 156, "total_fat": 4.8, "sodium": null, "protein": 26.46, "sugars": 0.0, "carbohydrate": 0.0}, {"name": "Beans, solids and liquids, regular pack, canned, green, snap", "calories": 15, "total_fat": 0.2, "sodium": null, "protein": 0.72, "sugars": 1.25, "carbohydrate": 3.27}, {"name": "Cereals ready-to-eat, chocolate-flavored frosted puffed corn", "calories": 405, "total_fat": 3.5, "sodium": null, "protein": 3.34, "sugars": 43.7, "carbohydrate": 87.2}, {"name": "Beans, with salt, boiled, cooked, mature seeds, black turtle", "calories": 130, "total_fat": 0.4, "sodium": null, "protein": 8.18, "sugars": 0.32, "carbohydrate": 24.35}, {"name": "USDA Commodity, unheated, cooked, boneless, ham, cured, pork", "calories": 133, "total_fat": 6.2, "sodium": null, "protein": 17.44, "sugars": 0.0, "carbohydrate": 0.69}, {"name": "Soybeans, with salt, steamed, cooked, sprouted, mature seeds", "calories": 81, "total_fat": 4.5, "sodium": null, "protein": 8.47, "sugars": 0.43, "carbohydrate": 6.53}, {"name": "Chicken, fried, cooked, meat only, thigh, broilers or fryers", "calories": 218, "total_fat": 10.0, "sodium": null, "protein": 28.18, "sugars": 0.0, "carbohydrate": 1.18}, {"name": "Peppers, without salt, drained, boiled, cooked, green, sweet", "calories": 28, "total_fat": 0.2, "sodium": null, "protein": 0.92, "sugars": 3.19, "carbohydrate": 6.7}, {"name": "Shortening industrial, soybean (hydrogenated) and cottonseed", "calories": 884, "total_fat": 100.0, "sodium": null, "protein": 0.0, "sugars": 0.0, "carbohydrate": 0.0}, {"name": "Cookies, plain or honey (includes cinnamon), graham crackers", "calories": 430, "total_fat": 11.0, "sodium": null, "protein": 6.69, "sugars": 24.85, "carbohydrate": 77.66}, {"name": "Rice, dry, enriched, precooked or instant, long-grain, white", "calories": 380, "total_fat": 0.9, "sodium": null, "protein": 7.82, "sugars": 0.05, "carbohydrate": 82.32}, {"name": "Grapefruit, solids and liquids, water pack, canned, sections", "calories": 36, "total_fat": 0.1, "sodium": null, "protein": 0.58, "sugars": 8.75, "carbohydrate": 9.15}, {"name": "Nuts, raw (liquid expressed from grated meat), coconut cream", "calories": 330, "total_fat": 35.0, "sodium": null, "protein": 3.63, "sugars": 0.0, "carbohydrate": 6.65}, {"name": "Cereals, dry, enriched, regular and quick, white, corn grits", "calories": 370, "total_fat": 1.8, "sodium": null, "protein": 7.65, "sugars": 0.57, "carbohydrate": 79.09}, {"name": "Cereals ready-to-eat, Dulce De Leche CHEERIOS, GENERAL MILLS", "calories": 378, "total_fat": 5.7, "sodium": null, "protein": 6.5, "sugars": 20.89, "carbohydrate": 82.0}, {"name": "Cereals ready-to-eat, APPLE CINNAMON CHEERIOS, GENERAL MILLS", "calories": 386, "total_fat": 6.1, "sodium": null, "protein": 8.3, "sugars": 34.2, "carbohydrate": 79.9}, {"name": "Wheat flour, calcium-fortified, enriched, all-purpose, white", "calories": 364, "total_fat": 1.0, "sodium": null, "protein": 10.33, "sugars": 0.0, "carbohydrate": 76.31}, {"name": "Frostings, prepared with margarine, dry mix, creamy, vanilla", "calories": 413, "total_fat": 13.0, "sodium": null, "protein": 0.34, "sugars": 0.0, "carbohydrate": 74.28}, {"name": "Restaurant, spaghetti with pomodoro sauce (no meat), Italian", "calories": 104, "total_fat": 1.9, "sodium": null, "protein": 3.9, "sugars": 1.82, "carbohydrate": 17.77}, {"name": "Cereals ready-to-eat, RAISIN BRAN CRUNCH, KELLOGG'S, KELLOGG", "calories": 354, "total_fat": 1.8, "sodium": null, "protein": 6.59, "sugars": 35.2, "carbohydrate": 84.9}, {"name": "Squash, with salt, boiled, cooked, frozen, butternut, winter", "calories": 39, "total_fat": 0.1, "sodium": null, "protein": 1.23, "sugars": 0.0, "carbohydrate": 10.04},  {"name": "Cereals ready-to-eat, RAISIN VINEYARD, KASHI ORGANIC PROMISE", "calories": 342, "total_fat": 0.8, "sodium": null, "protein": 8.69, "sugars": 23.39, "carbohydrate": 79.9}, {"name": "Candies, TWIX chocolate fudge cookie bars, MARS SNACKFOOD US", "calories": 550, "total_fat": 33.0, "sodium": null, "protein": 7.3, "sugars": 53.0, "carbohydrate": 56.0}, {"name": "Lamb, soaked and fried, cooked, liver, imported, New Zealand", "calories": 168, "total_fat": 6.6, "sodium": null, "protein": 25.8, "sugars": 0.0, "carbohydrate": 1.48}, {"name": "Snacks, cheese-flavor, puffs or twists, extruded, corn-based", "calories": 560, "total_fat": 36.0, "sodium": null, "protein": 5.85, "sugars": 3.19, "carbohydrate": 53.53}, {"name": "Cereals, dry, maple and brown sugar, Instant Oatmeal, QUAKER", "calories": 368, "total_fat": 4.6, "sodium": null, "protein": 9.2, "sugars": 30.02, "carbohydrate": 76.91}, {"name": "Beans, solids and liquids, canned, mature seeds, red, kidney", "calories": 81, "total_fat": 0.4, "sodium": null, "protein": 5.22, "sugars": 1.85, "carbohydrate": 14.83}, {"name": "Pokeberry shoots, with salt, drained, boiled, cooked, (poke)", "calories": 20, "total_fat": 0.4, "sodium": null, "protein": 2.3, "sugars": 1.6, "carbohydrate": 3.1}, {"name": "Pickles, sweet (includes bread and butter pickles), cucumber", "calories": 91, "total_fat": 0.4, "sodium": null, "protein": 0.58, "sugars": 18.27, "carbohydrate": 21.15}, {"name": "Biscuits, lower fat, refrigerated dough, plain or buttermilk", "calories": 270, "total_fat": 7.8, "sodium": null, "protein": 6.7, "sugars": 7.18, "carbohydrate": 43.7}, {"name": "Brussels sprouts, with salt, drained, boiled, cooked, frozen", "calories": 42, "total_fat": 0.4, "sodium": null, "protein": 3.64, "sugars": 2.08, "carbohydrate": 8.32}, {"name": "Broccoli, with salt, drained, boiled, cooked, spears, frozen", "calories": 28, "total_fat": 0.1, "sodium": null, "protein": 3.1, "sugars": 1.44, "carbohydrate": 5.35}, {"name": "Onions, without salt, drained, boiled, cooked, whole, frozen", "calories": 28, "total_fat": 0.1, "sodium": null, "protein": 0.71, "sugars": 2.9, "carbohydrate": 6.7}, {"name": "MARY'S GONE CRACKERS, Organic Gluten Free, Original Crackers", "calories": 446, "total_fat": 16.0, "sodium": null, "protein": 12.06, "sugars": 1.0, "carbohydrate": 64.29},  {"name": "Babyfood, junior, with applesauce and bananas, mixed, cereal", "calories": 83, "total_fat": 0.4, "sodium": null, "protein": 1.2, "sugars": 7.79, "carbohydrate": 18.4}, {"name": "Fast Foods, meat and skin and breading, Thigh, Fried Chicken", "calories": 274, "total_fat": 18.0, "sodium": null, "protein": 19.23, "sugars": 0.0, "carbohydrate": 8.68}, {"name": "KELLOGG'S, Frosted Cinnamon Roll Toaster Pastries, POP-TARTS", "calories": 416, "total_fat": 14.0, "sodium": null, "protein": 4.7, "sugars": 26.2, "carbohydrate": 67.8}, {"name": "KELLOGG'S, Frosted Apple Strudel Toaster Pastries, POP-TARTS", "calories": 395, "total_fat": 11.0, "sodium": null, "protein": 4.4, "sugars": 28.0, "carbohydrate": 70.5}, {"name": "Margarine-like spread with yogurt, with salt, stick, 70% fat", "calories": 630, "total_fat": 70.0, "sodium": null, "protein": 0.3, "sugars": 0.0, "carbohydrate": 0.5},  {"name": "Cheese, large or small curd, dry, uncreamed, nonfat, cottage", "calories": 72, "total_fat": 0.3, "sodium": null, "protein": 10.34, "sugars": 1.85, "carbohydrate": 6.66}, {"name": "Nuts, with salt added, with peanuts, oil roasted, mixed nuts", "calories": 607, "total_fat": 54.0, "sodium": null, "protein": 20.04, "sugars": 4.15, "carbohydrate": 21.05}, {"name": "Nuts, with salt added, with peanuts, dry roasted, mixed nuts", "calories": 594, "total_fat": 51.0, "sodium": null, "protein": 17.3, "sugars": 4.8, "carbohydrate": 25.35}, {"name": "Cereals, dry, Creamy TRULY VANILLA, KASHI GO LEAN Hot Cereal", "calories": 360, "total_fat": 5.3, "sodium": null, "protein": 22.29, "sugars": 14.8, "carbohydrate": 61.09}, {"name": "KEEBLER, Sandies Shortbread Cookies, 100 Calorie RIGHT BITES", "calories": 468, "total_fat": 17.0, "sodium": null, "protein": 5.2, "sugars": 25.8, "carbohydrate": 73.9}, {"name": "MORNINGSTAR FARMS Breakfast Bacon Strips, unprepared, frozen", "calories": 346, "total_fat": 27.0, "sodium": null, "protein": 12.4, "sugars": 0.8, "carbohydrate": 14.3}, {"name": "Veal, braised, cooked, tongue, variety meats and by-products", "calories": 202, "total_fat": 10.0, "sodium": null, "protein": 25.85, "sugars": 0.0, "carbohydrate": 0.0}, {"name": "Lamb, braised, cooked, tongue, variety meats and by-products", "calories": 275, "total_fat": 20.0, "sodium": null, "protein": 21.57, "sugars": 0.0, "carbohydrate": 0.0}, {"name": "Elk, raw (Shoshone Bannock), eye of round, roast, free range", "calories": 98, "total_fat": 2.1, "sodium": null, "protein": 19.74, "sugars": 0.0, "carbohydrate": 0.0}, {"name": "Buffalo, raw (Shoshone Bannock), top round steak, free range", "calories": 97, "total_fat": 1.3, "sodium": null, "protein": 21.44, "sugars": 0.0, "carbohydrate": 0.0}, {"name": "Beverages, bottled, Cranberry-Apple Juice Drink, OCEAN SPRAY", "calories": 56, "total_fat": 0.0, "sodium": null, "protein": 0.29, "sugars": 13.12, "carbohydrate": 13.68}, {"name": "Chicken, roasted, cooked, meat only, leg, broilers or fryers", "calories": 174, "total_fat": 7.8, "sodium": null, "protein": 24.22, "sugars": 0.0, "carbohydrate": 0.0}, {"name": "Beverages, prepared with distilled water, brewed, black, tea", "calories": 1, "total_fat": 0.0, "sodium": null, "protein": 0.0, "sugars": 0.0, "carbohydrate": 0.3}, {"name": "Fast foods, and sausage, cheese, with egg, breakfast burrito", "calories": 277, "total_fat": 16.0, "sodium": null, "protein": 11.1, "sugars": 2.57, "carbohydrate": 22.97}, {"name": "Potatoes, whole milk and butter added, home-prepared, mashed", "calories": 113, "total_fat": 4.2, "sodium": null, "protein": 1.86, "sugars": 1.43, "carbohydrate": 16.81}, {"name": "Mushrooms, grilled, exposed to ultraviolet light, portabella", "calories": 29, "total_fat": 0.6, "sodium": null, "protein": 3.28, "sugars": 2.26, "carbohydrate": 4.44}, {"name": "Fish, dry heat, cooked, flatfish (flounder and sole species)", "calories": 86, "total_fat": 2.4, "sodium": null, "protein": 15.24, "sugars": 0.0, "carbohydrate": 0.0},  {"name": "Cereals ready-to-eat, Cinnamon Burst CHEERIOS, GENERAL MILLS", "calories": 375, "total_fat": 6.1, "sodium": null, "protein": 6.3, "sugars": 28.1, "carbohydrate": 83.2}, {"name": "Restaurant, from kids' menu, macaroni & cheese, family style", "calories": 151, "total_fat": 6.1, "sodium": null, "protein": 5.42, "sugars": 3.09, "carbohydrate": 18.8},  {"name": "Grapefruit, solids and liquids, juice pack, canned, sections", "calories": 37, "total_fat": 0.1, "sodium": null, "protein": 0.7, "sugars": 8.8, "carbohydrate": 9.21}, {"name": "Nuts, without salt added, dry roasted, hazelnuts or filberts", "calories": 646, "total_fat": 62.0, "sodium": null, "protein": 15.03, "sugars": 4.89, "carbohydrate": 17.6}, {"name": "Cereals ready-to-eat, KELLOGG'S SPECIAL K Blueberry, KELLOGG", "calories": 363, "total_fat": 1.5, "sodium": null, "protein": 6.9, "sugars": 26.7, "carbohydrate": 86.3}, {"name": "MORNINGSTAR FARMS Mediterranean Chickpea, unprepared, frozen", "calories": 200, "total_fat": 6.5, "sodium": null, "protein": 15.5, "sugars": 1.1, "carbohydrate": 19.8}, {"name": "Fish, raw (may have been previously frozen), Alaska, pollock", "calories": 56, "total_fat": 0.4, "sodium": null, "protein": 12.19, "sugars": 0.0, "carbohydrate": 0.0}, {"name": "CARRABBA'S ITALIAN GRILL, cheese ravioli with marinara sauce", "calories": 156, "total_fat": 6.0, "sodium": null, "protein": 7.96, "sugars": 4.15, "carbohydrate": 17.62}, {"name": "Tofu, prepared with calcium sulfate, dried-frozen (koyadofu)", "calories": 470, "total_fat": 30.0, "sodium": null, "protein": 52.43, "sugars": 0.0, "carbohydrate": 8.3}, {"name": "Beef, raw, separable lean only, flank, imported, New Zealand", "calories": 142, "total_fat": 6.7, "sodium": null, "protein": 20.53, "sugars": 0.0, "carbohydrate": 0.0}, {"name": "Cereals ready-to-eat, KELLOGG'S SPECIAL K Chocolatey Delight", "calories": 381, "total_fat": 7.3, "sodium": null, "protein": 6.5, "sugars": 29.9, "carbohydrate": 81.2}, {"name": "Veal, roasted, cooked, separable lean and fat, arm, shoulder", "calories": 183, "total_fat": 8.3, "sodium": null, "protein": 25.46, "sugars": 0.0, "carbohydrate": 0.0}, {"name": "Veal, braised, cooked, separable lean and fat, arm, shoulder", "calories": 236, "total_fat": 10.0, "sodium": null, "protein": 33.63, "sugars": 0.0, "carbohydrate": 0.0},  {"name": "Milk, with added vitamin A and vitamin D, 2% fat, evaporated", "calories": 107, "total_fat": 2.0, "sodium": null, "protein": 6.67, "sugars": 6.67, "carbohydrate": 15.74}, {"name": "Turkey, roasted, cooked, meat and skin, dark meat from whole", "calories": 206, "total_fat": 10.0, "sodium": null, "protein": 27.27, "sugars": 0.0, "carbohydrate": 0.07}, {"name": "Peas and carrots, with salt, drained, boiled, cooked, frozen", "calories": 48, "total_fat": 0.4, "sodium": null, "protein": 3.09, "sugars": 4.36, "carbohydrate": 10.12}, {"name": "Cookie, and chocolate coating, coconut, vanilla with caramel", "calories": 489, "total_fat": 26.0, "sodium": null, "protein": 3.5, "sugars": 35.8, "carbohydrate": 64.1}, {"name": "Cereals, high fiber, Cinnamon Swirl, Instant Oatmeal, QUAKER", "calories": 366, "total_fat": 4.8, "sodium": null, "protein": 8.79, "sugars": 14.7, "carbohydrate": 75.67}, {"name": "Beverages, frozen, concentrated, non-alcoholic, Cocktail mix", "calories": 287, "total_fat": 0.0, "sodium": null, "protein": 0.08, "sugars": 24.53, "carbohydrate": 71.6}, {"name": "Pork, unheated, extra lean and regular, boneless, ham, cured", "calories": 162, "total_fat": 8.4, "sodium": null, "protein": 18.26, "sugars": 0.0, "carbohydrate": 2.28}, {"name": "Babyfood, prepared with whole milk, with honey, rice, cereal", "calories": 115, "total_fat": 3.3, "sodium": null, "protein": 3.9, "sugars": 0.0, "carbohydrate": 17.1}, {"name": "Potsticker or wonton, unprepared, frozen, pork and vegetable", "calories": 136, "total_fat": 5.5, "sodium": null, "protein": 8.28, "sugars": 2.76, "carbohydrate": 13.28}, {"name": "Cowpeas, without salt, boiled, cooked, mature seeds, catjang", "calories": 117, "total_fat": 0.7, "sodium": null, "protein": 8.13, "sugars": 0.0, "carbohydrate": 20.32},
+
+    {"name":"Turkey, roasted, cooked, meat and skin, breast, retail parts","calories":164,"total_fat":5.3,"sodium":114.0,"protein":29.01,"sugars":0.0,"carbohydrate":0.05},{"name":"Fish, batter-dipped and fried, cooked, mixed species, shark","calories":228,"total_fat":14.0,"sodium":122.0,"protein":18.62,"sugars":0.0,"carbohydrate":6.39},{"name":"Apricots, solids and liquids, with skin, water pack, canned","calories":27,"total_fat":0.2,"sodium":3.0,"protein":0.71,"sugars":4.79,"carbohydrate":6.39},{"name":"Apricots, solids and liquids, with skin, juice pack, canned","calories":48,"total_fat":0.0,"sodium":4.0,"protein":0.63,"sugars":10.74,"carbohydrate":12.34},{"name":"Margarine-like, without salt, 20% fat, vegetable oil spread","calories":175,"total_fat":20.0,"sodium":0.0,"protein":0.0,"sugars":0.0,"carbohydrate":0.4},{"name":"Beverages, Hi-C Flashin' Fruit Punch, The COCA-COLA company","calories":45,"total_fat":0.0,"sodium":8.0,"protein":0.0,"sugars":12.5,"carbohydrate":12.5},{"name":"Pork, raw, separable lean only, arm picnic, shoulder, fresh","calories":120,"total_fat":3.8,"sodium":90.0,"protein":20.26,"sugars":0.0,"carbohydrate":0.0},{"name":"Plums, solids and liquids, light syrup pack, purple, canned","calories":63,"total_fat":0.1,"sodium":20.0,"protein":0.37,"sugars":15.35,"carbohydrate":16.28},{"name":"Plums, solids and liquids, heavy syrup pack, purple, canned","calories":89,"total_fat":0.1,"sodium":19.0,"protein":0.36,"sugars":22.31,"carbohydrate":23.24},{"name":"Beans, with salt, boiled, cooked, mature seeds, red, kidney","calories":127,"total_fat":0.5,"sodium":238.0,"protein":8.67,"sugars":0.32,"carbohydrate":22.8},{"name":"Pork, raw, separable lean only, rump half, leg (ham), fresh","calories":120,"total_fat":2.9,"sodium":76.0,"protein":21.81,"sugars":0.0,"carbohydrate":0.0},{"name":"Beef, braised, cooked, liver, variety meats and by-products","calories":191,"total_fat":5.3,"sodium":79.0,"protein":29.08,"sugars":0.0,"carbohydrate":5.13},{"name":"Soup, canned, ready-to-serve, low sodium, cream of mushroom","calories":53,"total_fat":3.7,"sodium":20.0,"protein":1.0,"sugars":1.72,"carbohydrate":4.53},{"name":"Squash, without salt, mashed, boiled, cooked, acorn, winter","calories":34,"total_fat":0.1,"sodium":3.0,"protein":0.67,"sugars":0.0,"carbohydrate":8.79},{"name":"Lamb, braised, cooked, heart, variety meats and by-products","calories":185,"total_fat":7.9,"sodium":63.0,"protein":24.97,"sugars":0.0,"carbohydrate":1.93},{"name":"Veal, braised, cooked, heart, variety meats and by-products","calories":186,"total_fat":6.8,"sodium":58.0,"protein":29.12,"sugars":0.0,"carbohydrate":0.13},{"name":"Beans, with salt, boiled, cooked, mature seeds, small white","calories":142,"total_fat":0.6,"sodium":238.0,"protein":8.97,"sugars":0.0,"carbohydrate":25.81},{"name":"Milk, with added vitamin A and vitamin D, lowfat, chocolate","calories":62,"total_fat":1.0,"sodium":65.0,"protein":3.46,"sugars":9.94,"carbohydrate":9.86},{"name":"Potatoes, unprepared, with butter sauce, frozen, hash brown","calories":135,"total_fat":6.7,"sodium":77.0,"protein":1.87,"sugars":0.0,"carbohydrate":18.28},{"name":"Babyfood, junior, vegetables and noodles and turkey, dinner","calories":52,"total_fat":1.5,"sodium":17.0,"protein":1.8,"sugars":0.0,"carbohydrate":7.6},{"name":"Alcoholic beverage, Pinot Gris (Grigio), white, table, wine","calories":83,"total_fat":0.0,"sodium":0.0,"protein":0.07,"sugars":0.0,"carbohydrate":2.06},{"name":"Fluid replacement, electrolyte solution (include PEDIALYTE)","calories":10,"total_fat":0.0,"sodium":101.0,"protein":0.0,"sugars":2.45,"carbohydrate":2.45},{"name":"MORNINGSTAR FARMS Tuscan Greens & Beans, unprepared, frozen","calories":112,"total_fat":6.3,"sodium":161.0,"protein":5.9,"sugars":2.3,"carbohydrate":11.7},{"name":"Tangerines, drained, juice pack, canned, (mandarin oranges)","calories":38,"total_fat":0.0,"sodium":5.0,"protein":0.75,"sugars":8.25,"carbohydrate":9.41},{"name":"Turkey, roasted, cooked, meat and skin, breast, all classes","calories":189,"total_fat":7.4,"sodium":63.0,"protein":28.71,"sugars":0.0,"carbohydrate":0.0},{"name":"Squash, with salt, drained, boiled, cooked, scallop, summer","calories":16,"total_fat":0.2,"sodium":237.0,"protein":1.03,"sugars":1.5,"carbohydrate":3.3},{"name":"Veal, braised, cooked, separable lean only, blade, shoulder","calories":198,"total_fat":6.5,"sodium":101.0,"protein":32.66,"sugars":0.0,"carbohydrate":0.0},{"name":"Veal, roasted, cooked, separable lean only, blade, shoulder","calories":171,"total_fat":6.9,"sodium":102.0,"protein":25.64,"sugars":0.0,"carbohydrate":0.0},{"name":"Onions, with salt, drained, boiled, cooked, chopped, frozen","calories":26,"total_fat":0.1,"sodium":248.0,"protein":0.77,"sugars":2.9,"carbohydrate":6.0},{"name":"Pineapple juice, undiluted, unsweetened, frozen concentrate","calories":179,"total_fat":0.1,"sodium":3.0,"protein":1.3,"sugars":43.6,"carbohydrate":44.3},{"name":"Game meat, broiled, cooked, separable lean only, round, elk","calories":156,"total_fat":2.6,"sodium":51.0,"protein":30.94,"sugars":0.0,"carbohydrate":0.0},{"name":"Salad dressing, without salt, reduced fat, italian dressing","calories":76,"total_fat":6.4,"sodium":30.0,"protein":0.47,"sugars":4.55,"carbohydrate":4.57},{"name":"Chicken, raw, meat and skin, light meat, broilers or fryers","calories":186,"total_fat":11.0,"sodium":65.0,"protein":20.27,"sugars":0.0,"carbohydrate":0.0},{"name":"Babyfood, junior, vegetables and dumplings and beef, dinner","calories":48,"total_fat":0.8,"sodium":52.0,"protein":2.1,"sugars":0.0,"carbohydrate":8.0},{"name":"Chicken, roasted, cooked, meat and skin, broilers or fryers","calories":239,"total_fat":14.0,"sodium":82.0,"protein":27.3,"sugars":0.0,"carbohydrate":0.0},{"name":"Turkey, roasted, cooked, meat only, drumstick, retail parts","calories":173,"total_fat":6.5,"sodium":112.0,"protein":28.61,"sugars":0.0,"carbohydrate":0.0},{"name":"Lamb, braised, cooked, lungs, variety meats and by-products","calories":113,"total_fat":3.1,"sodium":84.0,"protein":19.88,"sugars":0.0,"carbohydrate":0.0},{"name":"Lamb, braised, cooked, liver, variety meats and by-products","calories":220,"total_fat":8.8,"sodium":56.0,"protein":30.57,"sugars":0.0,"carbohydrate":2.53},{"name":"Veal, braised, cooked, liver, variety meats and by-products","calories":192,"total_fat":6.3,"sodium":78.0,"protein":28.42,"sugars":0.0,"carbohydrate":3.77},{"name":"Veal, braised, cooked, lungs, variety meats and by-products","calories":104,"total_fat":2.6,"sodium":56.0,"protein":18.74,"sugars":0.0,"carbohydrate":0.0},{"name":"Chicken, fried, cooked, meat only, neck, broilers or fryers","calories":229,"total_fat":12.0,"sodium":99.0,"protein":26.87,"sugars":0.0,"carbohydrate":1.77},{"name":"Babyfood, junior, bananas and pineapple with tapioca, fruit","calories":68,"total_fat":0.1,"sodium":0.0,"protein":0.2,"sugars":8.41,"carbohydrate":18.4},{"name":"Lamb, braised, cooked, brain, variety meats and by-products","calories":145,"total_fat":10.0,"sodium":134.0,"protein":12.55,"sugars":0.0,"carbohydrate":0.0},{"name":"Veal, braised, cooked, brain, variety meats and by-products","calories":136,"total_fat":9.6,"sodium":156.0,"protein":11.48,"sugars":0.0,"carbohydrate":0.0},{"name":"Babyfood, strained, noodles and chicken, vegetables, dinner","calories":63,"total_fat":2.5,"sodium":20.0,"protein":2.0,"sugars":0.0,"carbohydrate":7.9},{"name":"Corn, unprepared, kernels cut off cob, frozen, white, sweet","calories":88,"total_fat":0.8,"sodium":3.0,"protein":3.02,"sugars":9.09,"carbohydrate":20.73},{"name":"Cereals ready-to-eat, Berry Fruitful, KASHI ORGANIC PROMISE","calories":318,"total_fat":1.3,"sodium":5.0,"protein":10.7,"sugars":14.6,"carbohydrate":76.2},{"name":"Beans, drained solids, canned, sprouted, mature seeds, mung","calories":12,"total_fat":0.1,"sodium":42.0,"protein":1.4,"sugars":0.7,"carbohydrate":2.14},{"name":"Chicken, fried, cooked, meat only, wing, broilers or fryers","calories":211,"total_fat":9.2,"sodium":91.0,"protein":30.15,"sugars":0.0,"carbohydrate":0.0},{"name":"Frozen novelties, with low calorie sweetener, pop, ice type","calories":24,"total_fat":0.0,"sodium":10.0,"protein":0.0,"sugars":1.52,"carbohydrate":5.92},{"name":"Veal, roasted, cooked, separable lean only, leg (top round)","calories":150,"total_fat":3.4,"sodium":68.0,"protein":28.07,"sugars":0.0,"carbohydrate":0.0},{"name":"Veal, braised, cooked, separable lean only, leg (top round)","calories":203,"total_fat":5.1,"sodium":67.0,"protein":36.71,"sugars":0.0,"carbohydrate":0.0},{"name":"Soup, prepared with equal volume water, canned, tomato rice","calories":47,"total_fat":1.1,"sodium":319.0,"protein":0.82,"sugars":2.95,"carbohydrate":8.54},{"name":"Turkey, roasted, cooked, meat and skin, thigh, retail parts","calories":183,"total_fat":9.5,"sodium":101.0,"protein":23.95,"sugars":0.0,"carbohydrate":0.41},{"name":"Beverages, without caffeine, lemon-lime, SPRITE, carbonated","calories":40,"total_fat":0.0,"sodium":9.0,"protein":0.05,"sugars":8.98,"carbohydrate":10.14},{"name":"Peaches, solids and liquids, extra heavy syrup pack, canned","calories":96,"total_fat":0.0,"sodium":8.0,"protein":0.47,"sugars":0.0,"carbohydrate":26.06},{"name":"Peas and onions, with salt, drained, boiled, cooked, frozen","calories":45,"total_fat":0.2,"sodium":273.0,"protein":2.54,"sugars":3.77,"carbohydrate":8.63},{"name":"Peas and carrots, solids and liquids, no salt added, canned","calories":38,"total_fat":0.3,"sodium":4.0,"protein":2.17,"sugars":2.83,"carbohydrate":8.48},{"name":"Squash, unprepared, frozen, includes skin, zucchini, summer","calories":17,"total_fat":0.1,"sodium":2.0,"protein":1.16,"sugars":1.71,"carbohydrate":3.58},{"name":"Tea, herb and laborador combination (Alaska Native), tundra","calories":1,"total_fat":0.0,"sodium":132.0,"protein":0.0,"sugars":0.0,"carbohydrate":0.2},{"name":"Potatoes, with salt, drained, boiled, cooked, whole, frozen","calories":63,"total_fat":0.1,"sodium":256.0,"protein":1.98,"sugars":0.0,"carbohydrate":13.93},{"name":"Chicken, stewed, cooked, meat and skin, broilers or fryers","calories":219,"total_fat":13.0,"sodium":67.0,"protein":24.68,"sugars":0.0,"carbohydrate":0.0},{"name":"Veal, raw, separable lean and fat, boneless, whole, breast","calories":208,"total_fat":15.0,"sodium":0.0,"protein":17.47,"sugars":0.0,"carbohydrate":0.0},{"name":"Beverages, AQUAFINA, PEPSI, non-carbonated, bottled, water","calories":0,"total_fat":0.0,"sodium":0.0,"protein":0.0,"sugars":0.0,"carbohydrate":0.0},{"name":"Veal, raw, separable lean only, rib roast, rib, Australian","calories":134,"total_fat":4.6,"sodium":83.0,"protein":21.7,"sugars":0.0,"carbohydrate":1.4},{"name":"Ice creams, All Natural Light Mint Chocolate Chip, BREYERS","calories":196,"total_fat":7.1,"sodium":67.0,"protein":4.69,"sugars":25.38,"carbohydrate":28.39},
+    {
+            "name": "Peas, without salt, drained, boiled, cooked, frozen, green",
+            "calories": 78,
+            "total_fat": 0.3,
+            "sodium": 72.0,
+            "protein": 5.15,
+            "sugars": 4.4,
+            "carbohydrate": 14.26
+        },
+        {
+            "name": "Lima beans, with salt, boiled, cooked, mature seeds, large",
+            "calories": 115,
+            "total_fat": 0.4,
+            "sodium": 238.0,
+            "protein": 7.8,
+            "sugars": 2.9,
+            "carbohydrate": 20.88
+        },
+
+        {
+            "name": "Cereals ready-to-eat, FIBER ONE Bran Cereal, GENERAL MILLS",
+            "calories": 207,
+            "total_fat": 2.3,
+            "sodium": 356.0,
+            "protein": 6.59,
+            "sugars": 1.0,
+            "carbohydrate": 84.3
+        },
+        {
+            "name": "Pork, raw, separable lean and fat, tenderloin, loin, fresh",
+            "calories": 120,
+            "total_fat": 3.5,
+            "sodium": 52.0,
+            "protein": 20.65,
+            "sugars": 0.0,
+            "carbohydrate": 0.0
+        },
+        {
+            "name": "Cereals ready-to-eat, OAT BLENDERS with honey, MALT-O-MEAL",
+            "calories": 396,
+            "total_fat": 4.2,
+            "sodium": 515.0,
+            "protein": 6.78,
+            "sugars": 21.62,
+            "carbohydrate": 84.94
+        },
+        {
+            "name": "Chickpeas (garbanzo beans, bengal gram), raw, mature seeds",
+            "calories": 378,
+            "total_fat": 6.0,
+            "sodium": 24.0,
+            "protein": 20.47,
+            "sugars": 10.7,
+            "carbohydrate": 62.95
+        },
+        {
+            "name": "Cereals ready-to-eat, original big biscuit, Shredded Wheat, POST",
+            "calories": 337,
+            "total_fat": 2.0,
+            "sodium": 2.0,
+            "protein": 11.37,
+            "sugars": 0.94,
+            "carbohydrate": 78.96
+        },
+        {
+            "name": "Pork, braised, cooked, separable lean and fat, whole, loin, fresh",
+            "calories": 239,
+            "total_fat": 14.0,
+            "sodium": 48.0,
+            "protein": 27.23,
+            "sugars": 0.0,
+            "carbohydrate": 0.0
+        },
+        {
+            "name": "Nuts, canned, flaked, sweetened, dried (desiccated), coconut meat",
+            "calories": 443,
+            "total_fat": 32.0,
+            "sodium": 20.0,
+            "protein": 3.35,
+            "sugars": 0.0,
+            "carbohydrate": 40.91
+        },
+        {
+            "name": "Cereals, reduced sugar, Apple and Cinnamon, Instant Oatmeal, QUAKER",
+            "calories": 358,
+            "total_fat": 5.6,
+            "sodium": 535.0,
+            "protein": 10.29,
+            "sugars": 17.78,
+            "carbohydrate": 72.17
+        },
+        {
+            "name": "Pork, braised, cooked, spleen, variety meats and by-products, fresh",
+            "calories": 149,
+            "total_fat": 3.2,
+            "sodium": 107.0,
+            "protein": 28.2,
+            "sugars": 0.0,
+            "carbohydrate": 0.0
+        },
+        {
+            "name": "Lamb, soaked and simmered, cooked, sweetbread, imported, New Zealand",
+            "calories": 144,
+            "total_fat": 6.6,
+            "sodium": 52.0,
+            "protein": 21.13,
+            "sugars": 0.0,
+            "carbohydrate": 0.0
+        },
+        {
+            "name": "Game meat, braised, cooked, separable lean only, shoulder clod, deer",
+            "calories": 191,
+            "total_fat": 4.0,
+            "sodium": 52.0,
+            "protein": 36.28,
+            "sugars": 0.0,
+            "carbohydrate": 0.0
+        },
+        {
+            "name": "Cereals ready-to-eat, KELLOGG'S Low Fat Granola with Raisins, KELLOGG",
+            "calories": 381,
+            "total_fat": 5.2,
+            "sodium": 249.0,
+            "protein": 9.0,
+            "sugars": 27.9,
+            "carbohydrate": 80.1
+        },
+        {
+            "name": "Infant formula, 24 calo ready-to-feed, Premature, ENFAMIL, MEAD JOHNSON",
+            "calories": 67,
+            "total_fat": 3.3,
+            "sodium": 38.0,
+            "protein": 1.97,
+            "sugars": 7.21,
+            "carbohydrate": 7.19
+        },
+        {
+            "name": "Cookies, with added fiber, reduced fat, commercially prepared, brownies",
+            "calories": 345,
+            "total_fat": 9.7,
+            "sodium": 290.0,
+            "protein": 2.77,
+            "sugars": 38.73,
+            "carbohydrate": 61.58
+        },
+        {
+            "name": "Cereals ready-to-eat, presweetened with nuts and fruits, wheat and bran",
+            "calories": 385,
+            "total_fat": 5.6,
+            "sodium": 245.0,
+            "protein": 7.1,
+            "sugars": 23.6,
+            "carbohydrate": 76.2
+        },
+
+        {
+            "name": "Cereals, dry, Instant Grits Product with American Cheese Flavor, QUAKER",
+            "calories": 360,
+            "total_fat": 4.7,
+            "sodium": 1518.0,
+            "protein": 8.8,
+            "sugars": 2.02,
+            "carbohydrate": 74.18
+        },
+        {
+            "name": "Pork, raw, mechanically separated, variety meats and by-products, fresh",
+            "calories": 304,
+            "total_fat": 27.0,
+            "sodium": 50.0,
+            "protein": 15.03,
+            "sugars": 0.0,
+            "carbohydrate": 0.0
+        },
+        {
+            "name": "Gourd, without salt, drained, boiled, cooked, white-flowered (calabash)",
+            "calories": 15,
+            "total_fat": 0.0,
+            "sodium": 2.0,
+            "protein": 0.6,
+            "sugars": 0.0,
+            "carbohydrate": 3.69
+        },
+        {
+            "name": "Snacks, salted nuts and seeds, with chocolate chips, regular, trail mix",
+            "calories": 484,
+            "total_fat": 32.0,
+            "sodium": 121.0,
+            "protein": 14.2,
+            "sugars": 23.88,
+            "carbohydrate": 44.9
+        },
+        {
+            "name": "Alcoholic beverage, all (gin, rum, vodka, whiskey) 100 proof, distilled",
+            "calories": 295,
+            "total_fat": 0.0,
+            "sodium": 1.0,
+            "protein": 0.0,
+            "sugars": 0.0,
+            "carbohydrate": 0.0
+        },
+        {
+            "name": "Spinach, without salt, drained, boiled, cooked, chopped or leaf, frozen",
+            "calories": 34,
+            "total_fat": 0.9,
+            "sodium": 97.0,
+            "protein": 4.01,
+            "sugars": 0.51,
+            "carbohydrate": 4.8
+        },
+        {
+            "name": "Fish, packed in oil (Alaska Native), air-dried, flesh, Pacific, herring",
+            "calories": 489,
+            "total_fat": 35.0,
+            "sodium": 0.0,
+            "protein": 44.5,
+            "sugars": 0.0,
+            "carbohydrate": 0.0
+        },
+        {
+            "name": "Beverages, ready-to-drink., G performance O 2, Gatorade, PEPSICO QUAKER",
+            "calories": 26,
+            "total_fat": 0.0,
+            "sodium": 39.0,
+            "protein": 0.0,
+            "sugars": 5.24,
+            "carbohydrate": 6.43
+        },
+        {
+            "name": "Leavening agents, sodium aluminum sulfate, double-acting, baking powder",
+            "calories": 53,
+            "total_fat": 0.0,
+            "sodium": 10600.0,
+            "protein": 0.0,
+            "sugars": 0.0,
+            "carbohydrate": 27.7
+        },
+        {
+            "name": "Toaster pastries, fruit (includes apple, blueberry, cherry, strawberry)",
+            "calories": 388,
+            "total_fat": 10.0,
+            "sodium": 334.0,
+            "protein": 4.2,
+            "sugars": 26.13,
+            "carbohydrate": 70.32
+        },
+        {
+            "name": "Cereals ready-to-eat, KELLOGG'S ALL-BRAN COMPLETE Wheat Flakes, KELLOGG",
+            "calories": 327,
+            "total_fat": 2.5,
+            "sodium": 718.0,
+            "protein": 10.2,
+            "sugars": 18.8,
+            "carbohydrate": 81.6
+        },
+        {
+            "name": "Pork, raw, separable lean only, boneless, top loin (chops), loin, fresh",
+            "calories": 127,
+            "total_fat": 3.4,
+            "sodium": 49.0,
+            "protein": 22.41,
+            "sugars": 0.0,
+            "carbohydrate": 0.0
+        },
+        {
+            "name": "Chicken, batter, fried, cooked, meat and skin, back, broilers or fryers",
+            "calories": 331,
+            "total_fat": 22.0,
+            "sodium": 317.0,
+            "protein": 21.97,
+            "sugars": 0.0,
+            "carbohydrate": 10.25
+        },
+        {
+            "name": "Cereals ready-to-eat, strawberry, Yogurt Burst, CHEERIOS, GENERAL MILLS",
+            "calories": 400,
+            "total_fat": 5.2,
+            "sodium": 567.0,
+            "protein": 6.67,
+            "sugars": 30.0,
+            "carbohydrate": 81.75
+        },
+        {
+            "name": "Cereals ready-to-eat, Pumpkin Granola, Organic FLAX PLUS, NATURE'S PATH",
+            "calories": 467,
+            "total_fat": 18.0,
+            "sodium": 74.0,
+            "protein": 11.23,
+            "sugars": 18.17,
+            "carbohydrate": 66.1
+        },
+        {
+            "name": "Cereals ready-to-eat, Triple Berry, Berry Burst CHEERIOS, GENERAL MILLS",
+            "calories": 378,
+            "total_fat": 4.5,
+            "sodium": 639.0,
+            "protein": 8.8,
+            "sugars": 27.0,
+            "carbohydrate": 80.5
+        },
+        {
+            "name": "Beverages, White Cranberry Strawberry Flavored Juice Drink, OCEAN SPRAY",
+            "calories": 49,
+            "total_fat": 0.0,
+            "sodium": 3.0,
+            "protein": 0.22,
+            "sugars": 11.42,
+            "carbohydrate": 11.98
+        },
+        {
+            "name": "Chicken, batter, fried, cooked, meat and skin, neck, broilers or fryers",
+            "calories": 330,
+            "total_fat": 24.0,
+            "sodium": 276.0,
+            "protein": 19.82,
+            "sugars": 0.0,
+            "carbohydrate": 8.7
+        },
+        {
+            "name": "Candies, COCOAVIA Blueberry and Almond Chocolate Bar, MARS SNACKFOOD US",
+            "calories": 525,
+            "total_fat": 29.0,
+            "sodium": 8.0,
+            "protein": 6.35,
+            "sugars": 38.99,
+            "carbohydrate": 60.37
+        },
+        {
+            "name": "Beverages, decaffeinated, restaurant-prepared, espresso, brewed, coffee",
+            "calories": 9,
+            "total_fat": 0.2,
+            "sodium": 14.0,
+            "protein": 0.1,
+            "sugars": 0.0,
+            "carbohydrate": 1.69
+        },
+        {
+            "name": "Rolls, made with low fat (2%) milk, prepared from recipe, plain, dinner",
+            "calories": 316,
+            "total_fat": 7.3,
+            "sodium": 415.0,
+            "protein": 8.5,
+            "sugars": 0.0,
+            "carbohydrate": 53.4
+        },
+        {
+            "name": "Beans, rinsed in tap water, drained solids, canned, mature seeds, pinto",
+            "calories": 117,
+            "total_fat": 1.0,
+            "sodium": 212.0,
+            "protein": 7.04,
+            "sugars": 0.0,
+            "carbohydrate": 20.77
+        },
+        {
+            "name": "Balsam-pear (bitter gourd), without salt, drained, boiled, cooked, pods",
+            "calories": 19,
+            "total_fat": 0.2,
+            "sodium": 6.0,
+            "protein": 0.84,
+            "sugars": 1.95,
+            "carbohydrate": 4.32
+        },
+        {
+            "name": "Chicken, batter, fried, cooked, meat and skin, wing, broilers or fryers",
+            "calories": 324,
+            "total_fat": 22.0,
+            "sodium": 320.0,
+            "protein": 19.87,
+            "sugars": 0.0,
+            "carbohydrate": 10.94
+        },
+        {
+            "name": "Pork, raw, separable lean only, country-style, center slice, ham, cured",
+            "calories": 195,
+            "total_fat": 8.3,
+            "sodium": 2695.0,
+            "protein": 27.8,
+            "sugars": 0.0,
+            "carbohydrate": 0.3
+        },
+        {
+            "name": "Toaster Pastries, Frosted chocolate fudge, KELLOGG'S POP TARTS, KELLOGG",
+            "calories": 384,
+            "total_fat": 9.3,
+            "sodium": 437.0,
+            "protein": 4.9,
+            "sugars": 35.0,
+            "carbohydrate": 70.4
+        },
+
+        {
+            "name": "Squash, with salt, or baked, drained, boiled, cooked, spaghetti, winter",
+            "calories": 27,
+            "total_fat": 0.3,
+            "sodium": 254.0,
+            "protein": 0.66,
+            "sugars": 2.53,
+            "carbohydrate": 6.46
+        },
+        {
+            "name": "Succotash, with salt, drained, boiled, cooked, frozen, (corn and limas)",
+            "calories": 93,
+            "total_fat": 0.9,
+            "sodium": 281.0,
+            "protein": 4.31,
+            "sugars": 2.21,
+            "carbohydrate": 19.95
+        },
+        {
+            "name": "Cherries, solids and liquids, extra heavy syrup pack, canned, red, sour",
+            "calories": 114,
+            "total_fat": 0.1,
+            "sodium": 7.0,
+            "protein": 0.71,
+            "sugars": 0.0,
+            "carbohydrate": 29.23
+        },
+        {
+            "name": "Rice and vermicelli mix, prepared with 80% margarine, rice pilaf flavor",
+            "calories": 148,
+            "total_fat": 3.7,
+            "sodium": 430.0,
+            "protein": 2.94,
+            "sugars": 0.26,
+            "carbohydrate": 25.67
+        },
+        {
+            "name": "Cereals ready-to-eat, bite size, KELLOGG'S FROSTED MINI-WHEATS, KELLOGG",
+            "calories": 350,
+            "total_fat": 1.6,
+            "sodium": 2.0,
+            "protein": 9.19,
+            "sugars": 20.29,
+            "carbohydrate": 83.4
+        },
+        {
+            "name": "Frozen novelties, Stickless Bar, No Sugar Added, SLIM-A-BEAR, KLONDIKE",
+            "calories": 242,
+            "total_fat": 13.0,
+            "sodium": 86.0,
+            "protein": 5.2,
+            "sugars": 8.64,
+            "carbohydrate": 25.98
+        },
+        {
+            "name": "Veal, braised, cooked, separable lean and fat, boneless, whole, breast",
+            "calories": 266,
+            "total_fat": 17.0,
+            "sodium": 65.0,
+            "protein": 26.97,
+            "sugars": 0.0,
+            "carbohydrate": 0.0
+        },
+        {
+            "name": "Formulated bar, SNICKERS MARATHON Honey Nut Oat Bar, MARS SNACKFOOD US",
+            "calories": 378,
+            "total_fat": 7.9,
+            "sodium": 318.0,
+            "protein": 22.5,
+            "sugars": 26.26,
+            "carbohydrate": 54.3
+        },
+        {
+            "name": "Mung beans, with salt, drained, boiled, cooked, sprouted, mature seeds",
+            "calories": 19,
+            "total_fat": 0.1,
+            "sodium": 246.0,
+            "protein": 2.03,
+            "sugars": 2.84,
+            "carbohydrate": 3.6
+        },
+        {
+            "name": "Chicken, batter, fried, cooked, meat and skin, leg, broilers or fryers",
+            "calories": 273,
+            "total_fat": 16.0,
+            "sodium": 279.0,
+            "protein": 21.77,
+            "sugars": 0.0,
+            "carbohydrate": 8.72
+        },
+        {
+            "name": "Chicken, flour, fried, cooked, meat and skin, back, broilers or fryers",
+            "calories": 331,
+            "total_fat": 21.0,
+            "sodium": 90.0,
+            "protein": 27.79,
+            "sugars": 0.0,
+            "carbohydrate": 6.5
+        },
+        {
+            "name": "Beans, with salt, boiled, cooked, mature seeds, california red, kidney",
+            "calories": 124,
+            "total_fat": 0.1,
+            "sodium": 240.0,
+            "protein": 9.13,
+            "sugars": 0.0,
+            "carbohydrate": 22.41
+        },
+
+        {
+            "name": "Fish, dry heat (may have been previously frozen), cooked, Pacific, cod",
+            "calories": 85,
+            "total_fat": 0.5,
+            "sodium": 372.0,
+            "protein": 18.73,
+            "sugars": 0.0,
+            "carbohydrate": 0.0
+        },
+        {
+            "name": "Alcoholic beverage, all (gin, rum, vodka, whiskey) 80 proof, distilled",
+            "calories": 231,
+            "total_fat": 0.0,
+            "sodium": 1.0,
+            "protein": 0.0,
+            "sugars": 0.0,
+            "carbohydrate": 0.0
+        },
+        {
+            "name": "Alcoholic beverage, all (gin, rum, vodka, whiskey) 90 proof, distilled",
+            "calories": 263,
+            "total_fat": 0.0,
+            "sodium": 1.0,
+            "protein": 0.0,
+            "sugars": 0.0,
+            "carbohydrate": 0.0
+        },
+        {
+            "name": "Alcoholic beverage, all (gin, rum, vodka, whiskey) 86 proof, distilled",
+            "calories": 250,
+            "total_fat": 0.0,
+            "sodium": 1.0,
+            "protein": 0.0,
+            "sugars": 0.0,
+            "carbohydrate": 0.1
+        },
+        {
+            "name": "Fast foods, prepared with garlic and parmesan cheese, soft, breadstick",
+            "calories": 343,
+            "total_fat": 13.0,
+            "sodium": 539.0,
+            "protein": 12.2,
+            "sugars": 1.11,
+            "carbohydrate": 44.48
+        },
+        {
+            "name": "Alcoholic beverage, all (gin, rum, vodka, whiskey) 94 proof, distilled",
+            "calories": 275,
+            "total_fat": 0.0,
+            "sodium": 1.0,
+            "protein": 0.0,
+            "sugars": 0.0,
+            "carbohydrate": 0.0
+        },
+        {
+            "name": "Cereals ready-to-eat, MEDLEY CRUNCH, HONEY NUT CHEERIOS, GENERAL MILLS",
+            "calories": 387,
+            "total_fat": 5.4,
+            "sodium": 385.0,
+            "protein": 9.1,
+            "sugars": 29.1,
+            "carbohydrate": 79.5
+        },
+
+        {
+            "name": "Potatoes, pan fried in canola oil, prepared, plain, frozen, hash brown",
+            "calories": 219,
+            "total_fat": 12.0,
+            "sodium": 15.0,
+            "protein": 2.65,
+            "sugars": 0.27,
+            "carbohydrate": 28.51
+        },
+        {
+            "name": "Cereals ready-to-eat, HONEY BUNCHES OF OATS with vanilla bunches, POST",
+            "calories": 394,
+            "total_fat": 5.1,
+            "sodium": 267.0,
+            "protein": 7.9,
+            "sugars": 20.7,
+            "carbohydrate": 81.8
+        },
+        {
+            "name": "Beverages, with added nutrients, Mixed vegetable and fruit juice drink",
+            "calories": 29,
+            "total_fat": 0.0,
+            "sodium": 21.0,
+            "protein": 0.04,
+            "sugars": 2.1,
+            "carbohydrate": 7.47
+        },
+        {
+            "name": "Cornmeal, enriched, with wheat flour added, bolted, self-rising, white",
+            "calories": 348,
+            "total_fat": 2.9,
+            "sodium": 1319.0,
+            "protein": 8.41,
+            "sugars": 0.0,
+            "carbohydrate": 73.43
+        },
+        {
+            "name": "Cereals, dry, Redeye Gravy & Country Ham flavor, Instant Grits, QUAKER",
+            "calories": 342,
+            "total_fat": 1.6,
+            "sodium": 1805.0,
+            "protein": 9.83,
+            "sugars": 0.71,
+            "carbohydrate": 75.86
+        },
+        {
+            "name": "Cereals ready-to-eat, POST HONEY BUNCHES OF OATS with cinnamon bunches",
+            "calories": 400,
+            "total_fat": 5.0,
+            "sodium": 464.0,
+            "protein": 7.1,
+            "sugars": 20.4,
+            "carbohydrate": 82.8
+        },
+        {
+            "name": "Beverages, prepared with whole milk, powder, natural, Malted drink mix",
+            "calories": 88,
+            "total_fat": 3.6,
+            "sodium": 79.0,
+            "protein": 3.86,
+            "sugars": 9.56,
+            "carbohydrate": 10.23
+        },
+        {
+            "name": "Lamb, raw, separable lean only, boneless, chump, imported, New Zealand",
+            "calories": 121,
+            "total_fat": 3.8,
+            "sodium": 62.0,
+            "protein": 21.68,
+            "sugars": 0.0,
+            "carbohydrate": 0.0
+        },
+        {
+            "name": "Fast Foods, skin and breading removed, meat only, Thigh, Fried Chicken",
+            "calories": 178,
+            "total_fat": 9.4,
+            "sodium": 577.0,
+            "protein": 23.21,
+            "sugars": 0.0,
+            "carbohydrate": 0.24
+        },
+        {
+            "name": "Candies, MILKY WAY Caramels. dark chocolate covered, MARS SNACKFOOD US",
+            "calories": 458,
+            "total_fat": 20.0,
+            "sodium": 246.0,
+            "protein": 3.82,
+            "sugars": 54.08,
+            "carbohydrate": 67.56
+        },
+        {
+            "name": "Seeds, without salt added (decorticated), toasted, sesame seed kernels",
+            "calories": 567,
+            "total_fat": 48.0,
+            "sodium": 39.0,
+            "protein": 16.96,
+            "sugars": 0.48,
+            "carbohydrate": 26.04
+        },
+        {
+            "name": "Chicken, raw, with added solution, meat and skin, drumstick, dark meat",
+            "calories": 146,
+            "total_fat": 8.2,
+            "sodium": 150.0,
+            "protein": 18.03,
+            "sugars": 0.0,
+            "carbohydrate": 0.0
+        },
+        {
+            "name": "Turkey, raw, with added solution, meat and skin, from whole bird, back",
+            "calories": 206,
+            "total_fat": 15.0,
+            "sodium": 157.0,
+            "protein": 16.86,
+            "sugars": 0.1,
+            "carbohydrate": 0.15
+        },
+        {
+            "name": "Snacks, with yogurt coating, NATURE VALLEY, GENERAL MILLS, granola bar",
+            "calories": 423,
+            "total_fat": 11.0,
+            "sodium": 271.0,
+            "protein": 5.71,
+            "sugars": 40.0,
+            "carbohydrate": 74.29
+        },
+        {
+            "name": "Tomato products, and celery, green peppers, with onions, sauce, canned",
+            "calories": 41,
+            "total_fat": 0.7,
+            "sodium": 368.0,
+            "protein": 0.94,
+            "sugars": 7.36,
+            "carbohydrate": 8.77
+        },
+        {
+            "name": "Chicken, raw, meat only, boneless, skinless, breast, broiler or fryers",
+            "calories": 120,
+            "total_fat": 2.6,
+            "sodium": 45.0,
+            "protein": 22.5,
+            "sugars": 0.0,
+            "carbohydrate": 0.0
+        },
+        {
+            "name": "Turkey from whole, raw, with added solution, meat and skin, light meat",
+            "calories": 147,
+            "total_fat": 7.4,
+            "sodium": 195.0,
+            "protein": 20.02,
+            "sugars": 0.06,
+            "carbohydrate": 0.14
+        },
+        {
+            "name": "Chicken, flour, fried, cooked, meat and skin, neck, broilers or fryers",
+            "calories": 332,
+            "total_fat": 24.0,
+            "sodium": 82.0,
+            "protein": 24.01,
+            "sugars": 0.0,
+            "carbohydrate": 4.24
+        },
+        {
+            "name": "Pork, broiled, cooked, separable lean and fat, tenderloin, loin, fresh",
+            "calories": 201,
+            "total_fat": 8.1,
+            "sodium": 64.0,
+            "protein": 29.86,
+            "sugars": 0.0,
+            "carbohydrate": 0.0
+        },
+
+        {"name": "Pork, roasted, separable fat (from ham and arm picnic), cured", "calories": 591.0, "total_fat": 62.0, "sodium": null, "protein": 7.64, "sugars": 0.0, "carbohydrate": 0.0},
+        {"name": "Cereals ready-to-eat, KELLOGG'S APPLE JACKS with marshmallows", "calories": 378, "total_fat": 2.8, "sodium": null, "protein": 4.3, "sugars": 51.1, "carbohydrate": 89.6},
+        {"name": "Chicken, roasted, cooked, meat only, wing, broilers or fryers", "calories": 203, "total_fat": 8.1, "sodium": null, "protein": 30.46, "sugars": 0.0, "carbohydrate": 0.0}, {"name": "Cereals ready-to-eat, CAP'N CRUNCH'S Halloween Crunch, QUAKER", "calories": 402, "total_fat": 5.7, "sodium": null, "protein": 4.41, "sugars": 43.82, "carbohydrate": 85.14}, 
+        {"name": "Potatoes, dry form, granules without milk, dehydrated, mashed", "calories": 372, "total_fat": 0.5, "sodium": null, "protein": 8.22, "sugars": 3.47, "carbohydrate": 85.51}, {"name": "Seal, partially dried (Alaska Native), meat, bearded (Oogruk)", "calories": 270, "total_fat": 2.3, "sodium": null, "protein": 62.38, "sugars": 0.0, "carbohydrate": 0.0}, {"name": "Cereals, dry, enriched, regular and quick, yellow, corn grits", "calories": 368, "total_fat": 1.5, "sodium": null, "protein": 6.72, "sugars": 0.55, "carbohydrate": 79.91}, 
+        {"name": "CRUNCHMASTER, Gluten-Free, Snack Crackers, Multi-Grain Crisps", "calories": 456, "total_fat": 16.0, "sodium": null, "protein": 10.91, "sugars": 0.8, "carbohydrate": 67.18}, {"name": "Pork, raw, frozen, ears, variety meats and by-products, fresh", "calories": 234, "total_fat": 15.0, "sodium": null, "protein": 22.45, "sugars": 0.0, "carbohydrate": 0.6}, {"name": "Seeds, without salt, roasted, whole, pumpkin and squash seeds", "calories": 446, "total_fat": 19.0, "sodium": null, "protein": 18.55, "sugars": 0.0, "carbohydrate": 53.75}, {"name": "Beverages, fortified with vitamin C, light, Apple juice drink", "calories": 22, "total_fat": 0.1, "sodium": null, "protein": 0.0, "sugars": 4.8, "carbohydrate": 5.1}, {"name": "Mollusks, made from surimi, imitation, mixed species, scallop", "calories": 99, "total_fat": 0.4, "sodium": null, "protein": 12.77, "sugars": 0.0, "carbohydrate": 10.62}, {"name": "Milk, with added vitamin A and vitamin D, fat free, chocolate", "calories": 67, "total_fat": 0.0, "sodium": null, "protein": 3.39, "sugars": 9.32, "carbohydrate": 13.46}, {"name": "Peaches, solids and liquids, heavy syrup pack, canned, spiced", "calories": 75, "total_fat": 0.1, "sodium": null, "protein": 0.41, "sugars": 18.78, "carbohydrate": 20.08}, {"name": "Chicken, not reheated, frozen, precooked, white meat, nuggets", "calories": 261, "total_fat": 15.0, "sodium": null, "protein": 14.36, "sugars": 1.27, "carbohydrate": 16.24}, {"name": "Turkey from whole, roasted, cooked, meat and skin, light meat", "calories": 177, "total_fat": 5.6, "sodium": null, "protein": 29.55, "sugars": 0.0, "carbohydrate": 0.05}, {"name": "Babyfood, toddler, chicken and noodle with vegetables, dinner", "calories": 66, "total_fat": 1.7, "sodium": null, "protein": 3.8, "sugars": 0.82, "carbohydrate": 8.89}, {"name": "Crustaceans, breaded and fried, cooked, mixed species, shrimp", "calories": 242, "total_fat": 12.0, "sodium": null, "protein": 21.39, "sugars": 0.8, "carbohydrate": 11.47}, {"name": "Bread, refrigerated, commercially prepared, whole wheat, naan", "calories": 286, "total_fat": 6.7, "sodium": null, "protein": 10.2, "sugars": 3.4, "carbohydrate": 46.21}, {"name": "Cereals, banana bread, Weight Control Instant Oatmeal, QUAKER", "calories": 361, "total_fat": 6.2, "sodium": null, "protein": 16.5, "sugars": 1.29, "carbohydrate": 64.42}, {"name": "Cereals, dry, maple and brown sugar, fortified, instant, oats", "calories": 368, "total_fat": 4.7, "sodium": null, "protein": 9.25, "sugars": 30.28, "carbohydrate": 76.67}, {"name": "Fast Foods, meat and skin and breading, Breast, Fried Chicken", "calories": 230, "total_fat": 12.0, "sodium": null, "protein": 23.51, "sugars": 0.0, "carbohydrate": 6.03}, {"name": "Lamb, soaked and fried, cooked, testes, imported, New Zealand", "calories": 125, "total_fat": 4.6, "sodium": null, "protein": 21.01, "sugars": 0.0, "carbohydrate": 0.0}, {"name": "Lamb, soaked and fried, cooked, brains, imported, New Zealand", "calories": 154, "total_fat": 11.0, "sodium": null, "protein": 14.03, "sugars": 0.0, "carbohydrate": 0.0}, {"name": "Margarine-like, with salt, tub, 60% fat, vegetable oil spread", "calories": 533, "total_fat": 60.0, "sodium": null, "protein": 0.17, "sugars": 0.0, "carbohydrate": 0.86}, {"name": "Babyfood, strained, with applesauce and bananas, rice, cereal", "calories": 80, "total_fat": 0.4, "sodium": null, "protein": 1.2, "sugars": 2.24, "carbohydrate": 17.1}, {"name": "Seeds, without salt, roasted, pumpkin and squash seed kernels", "calories": 574, "total_fat": 49.0, "sodium": null, "protein": 29.84, "sugars": 1.29, "carbohydrate": 14.71}, {"name": "Corn, unprepared, kernels cut off cob, frozen, yellow, sweet", "calories": 88, "total_fat": 0.8, "sodium": null, "protein": 3.02, "sugars": 2.5, "carbohydrate": 20.71}, {"name": "Chicken, flour, fried, cooked, skin only, broilers or fryers", "calories": 502, "total_fat": 43.0, "sodium": null, "protein": 19.09, "sugars": 0.0, "carbohydrate": 9.34}, {"name": "Beverages, Ready-to-Drink, Nutritional Shake, ENSURE, ABBOTT", "calories": 105, "total_fat": 2.5, "sodium": null, "protein": 3.8, "sugars": 9.7, "carbohydrate": 16.88}, {"name": "Cheese, low sodium, cheddar or American, pasteurized process", "calories": 376, "total_fat": 31.0, "sodium": null, "protein": 22.2, "sugars": 0.45, "carbohydrate": 1.6}, {"name": "Fish, smoked (Alaska Native), canned, (sockeye), red, salmon", "calories": 206, "total_fat": 7.3, "sodium": null, "protein": 35.19, "sugars": 0.0, "carbohydrate": 0.0}, {"name": "Veal, braised, cooked, thymus, variety meats and by-products", "calories": 125, "total_fat": 3.1, "sodium": null, "protein": 22.67, "sugars": 0.0, "carbohydrate": 0.0}, {"name": "Veal, braised, cooked, spleen, variety meats and by-products", "calories": 129, "total_fat": 2.9, "sodium": null, "protein": 24.08, "sugars": 0.0, "carbohydrate": 0.0}, {"name": "Lamb, braised, cooked, spleen, variety meats and by-products", "calories": 156, "total_fat": 4.8, "sodium": null, "protein": 26.46, "sugars": 0.0, "carbohydrate": 0.0}, {"name": "Beans, solids and liquids, regular pack, canned, green, snap", "calories": 15, "total_fat": 0.2, "sodium": null, "protein": 0.72, "sugars": 1.25, "carbohydrate": 3.27}, {"name": "Cereals ready-to-eat, chocolate-flavored frosted puffed corn", "calories": 405, "total_fat": 3.5, "sodium": null, "protein": 3.34, "sugars": 43.7, "carbohydrate": 87.2}, {"name": "Beans, with salt, boiled, cooked, mature seeds, black turtle", "calories": 130, "total_fat": 0.4, "sodium": null, "protein": 8.18, "sugars": 0.32, "carbohydrate": 24.35}, {"name": "USDA Commodity, unheated, cooked, boneless, ham, cured, pork", "calories": 133, "total_fat": 6.2, "sodium": null, "protein": 17.44, "sugars": 0.0, "carbohydrate": 0.69}, {"name": "Soybeans, with salt, steamed, cooked, sprouted, mature seeds", "calories": 81, "total_fat": 4.5, "sodium": null, "protein": 8.47, "sugars": 0.43, "carbohydrate": 6.53}, {"name": "Chicken, fried, cooked, meat only, thigh, broilers or fryers", "calories": 218, "total_fat": 10.0, "sodium": null, "protein": 28.18, "sugars": 0.0, "carbohydrate": 1.18}, {"name": "Peppers, without salt, drained, boiled, cooked, green, sweet", "calories": 28, "total_fat": 0.2, "sodium": null, "protein": 0.92, "sugars": 3.19, "carbohydrate": 6.7}, {"name": "Shortening industrial, soybean (hydrogenated) and cottonseed", "calories": 884, "total_fat": 100.0, "sodium": null, "protein": 0.0, "sugars": 0.0, "carbohydrate": 0.0}, {"name": "Cookies, plain or honey (includes cinnamon), graham crackers", "calories": 430, "total_fat": 11.0, "sodium": null, "protein": 6.69, "sugars": 24.85, "carbohydrate": 77.66}, {"name": "Rice, dry, enriched, precooked or instant, long-grain, white", "calories": 380, "total_fat": 0.9, "sodium": null, "protein": 7.82, "sugars": 0.05, "carbohydrate": 82.32}, {"name": "Grapefruit, solids and liquids, water pack, canned, sections", "calories": 36, "total_fat": 0.1, "sodium": null, "protein": 0.58, "sugars": 8.75, "carbohydrate": 9.15}, {"name": "Nuts, raw (liquid expressed from grated meat), coconut cream", "calories": 330, "total_fat": 35.0, "sodium": null, "protein": 3.63, "sugars": 0.0, "carbohydrate": 6.65}, {"name": "Cereals, dry, enriched, regular and quick, white, corn grits", "calories": 370, "total_fat": 1.8, "sodium": null, "protein": 7.65, "sugars": 0.57, "carbohydrate": 79.09}, {"name": "Cereals ready-to-eat, Dulce De Leche CHEERIOS, GENERAL MILLS", "calories": 378, "total_fat": 5.7, "sodium": null, "protein": 6.5, "sugars": 20.89, "carbohydrate": 82.0}, {"name": "Cereals ready-to-eat, APPLE CINNAMON CHEERIOS, GENERAL MILLS", "calories": 386, "total_fat": 6.1, "sodium": null, "protein": 8.3, "sugars": 34.2, "carbohydrate": 79.9}, {"name": "Wheat flour, calcium-fortified, enriched, all-purpose, white", "calories": 364, "total_fat": 1.0, "sodium": null, "protein": 10.33, "sugars": 0.0, "carbohydrate": 76.31}, {"name": "Frostings, prepared with margarine, dry mix, creamy, vanilla", "calories": 413, "total_fat": 13.0, "sodium": null, "protein": 0.34, "sugars": 0.0, "carbohydrate": 74.28}, {"name": "Restaurant, spaghetti with pomodoro sauce (no meat), Italian", "calories": 104, "total_fat": 1.9, "sodium": null, "protein": 3.9, "sugars": 1.82, "carbohydrate": 17.77}, {"name": "Cereals ready-to-eat, RAISIN BRAN CRUNCH, KELLOGG'S, KELLOGG", "calories": 354, "total_fat": 1.8, "sodium": null, "protein": 6.59, "sugars": 35.2, "carbohydrate": 84.9}, {"name": "Squash, with salt, boiled, cooked, frozen, butternut, winter", "calories": 39, "total_fat": 0.1, "sodium": null, "protein": 1.23, "sugars": 0.0, "carbohydrate": 10.04}, {"name": "Cereals ready-to-eat, RAISIN VINEYARD, KASHI ORGANIC PROMISE", "calories": 342, "total_fat": 0.8, "sodium": null, "protein": 8.69, "sugars": 23.39, "carbohydrate": 79.9}, 
+        {"name": "Candies, TWIX chocolate fudge cookie bars, MARS SNACKFOOD US", "calories": 550, "total_fat": 33.0, "sodium": null, "protein": 7.3, "sugars": 53.0, "carbohydrate": 56.0}, {"name": "Lamb, soaked and fried, cooked, liver, imported, New Zealand", "calories": 168, "total_fat": 6.6, "sodium": null, "protein": 25.8, "sugars": 0.0, "carbohydrate": 1.48}, {"name": "Snacks, cheese-flavor, puffs or twists, extruded, corn-based", "calories": 560, "total_fat": 36.0, "sodium": null, "protein": 5.85, "sugars": 3.19, "carbohydrate": 53.53}, {"name": "Cereals, dry, maple and brown sugar, Instant Oatmeal, QUAKER", "calories": 368, "total_fat": 4.6, "sodium": null, "protein": 9.2, "sugars": 30.02, "carbohydrate": 76.91}, {"name": "Beans, solids and liquids, canned, mature seeds, red, kidney", "calories": 81, "total_fat": 0.4, "sodium": null, "protein": 5.22, "sugars": 1.85, "carbohydrate": 14.83}, {"name": "Pokeberry shoots, with salt, drained, boiled, cooked, (poke)", "calories": 20, "total_fat": 0.4, "sodium": null, "protein": 2.3, "sugars": 1.6, "carbohydrate": 3.1}, {"name": "Pickles, sweet (includes bread and butter pickles), cucumber", "calories": 91, "total_fat": 0.4, "sodium": null, "protein": 0.58, "sugars": 18.27, "carbohydrate": 21.15}, {"name": "Biscuits, lower fat, refrigerated dough, plain or buttermilk", "calories": 270, "total_fat": 7.8, "sodium": null, "protein": 6.7, "sugars": 7.18, "carbohydrate": 43.7}, {"name": "Brussels sprouts, with salt, drained, boiled, cooked, frozen", "calories": 42, "total_fat": 0.4, "sodium": null, "protein": 3.64, "sugars": 2.08, "carbohydrate": 8.32}, {"name": "Broccoli, with salt, drained, boiled, cooked, spears, frozen", "calories": 28, "total_fat": 0.1, "sodium": null, "protein": 3.1, "sugars": 1.44, "carbohydrate": 5.35}, {"name": "Onions, without salt, drained, boiled, cooked, whole, frozen", "calories": 28, "total_fat": 0.1, "sodium": null, "protein": 0.71, "sugars": 2.9, "carbohydrate": 6.7}, {"name": "MARY'S GONE CRACKERS, Organic Gluten Free, Original Crackers", "calories": 446, "total_fat": 16.0, "sodium": null, "protein": 12.06, "sugars": 1.0, "carbohydrate": 64.29}, {"name": "Babyfood, junior, with applesauce and bananas, mixed, cereal", "calories": 83, "total_fat": 0.4, "sodium": null, "protein": 1.2, "sugars": 7.79, "carbohydrate": 18.4}, {"name": "Fast Foods, meat and skin and breading, Thigh, Fried Chicken", "calories": 274, "total_fat": 18.0, "sodium": null, "protein": 19.23, "sugars": 0.0, "carbohydrate": 8.68}, {"name": "KELLOGG'S, Frosted Cinnamon Roll Toaster Pastries, POP-TARTS", "calories": 416, "total_fat": 14.0, "sodium": null, "protein": 4.7, "sugars": 26.2, "carbohydrate": 67.8}, {"name": "KELLOGG'S, Frosted Apple Strudel Toaster Pastries, POP-TARTS", "calories": 395, "total_fat": 11.0, "sodium": null, "protein": 4.4, "sugars": 28.0, "carbohydrate": 70.5}, {"name": "Margarine-like spread with yogurt, with salt, stick, 70% fat", "calories": 630, "total_fat": 70.0, "sodium": null, "protein": 0.3, "sugars": 0.0, "carbohydrate": 0.5}, {"name": "Beef, broiled, cooked, patty, 95% lean meat / 5% fat, ground", "calories": 174, "total_fat": 6.8, "sodium": null, "protein": 26.29, "sugars": 0.0, "carbohydrate": 0.0}, {"name": "Cheese, large or small curd, dry, uncreamed, nonfat, cottage", "calories": 72, "total_fat": 0.3, "sodium": null, "protein": 10.34, "sugars": 1.85, "carbohydrate": 6.66}, {"name": "Nuts, with salt added, with peanuts, oil roasted, mixed nuts", "calories": 607, "total_fat": 54.0, "sodium": null, "protein": 20.04, "sugars": 4.15, "carbohydrate": 21.05}, {"name": "Nuts, with salt added, with peanuts, dry roasted, mixed nuts", "calories": 594, "total_fat": 51.0, "sodium": null, "protein": 17.3, "sugars": 4.8, "carbohydrate": 25.35}, {"name": "Cereals, dry, Creamy TRULY VANILLA, KASHI GO LEAN Hot Cereal", "calories": 360, "total_fat": 5.3, "sodium": null, "protein": 22.29, "sugars": 14.8, "carbohydrate": 61.09}, {"name": "KEEBLER, Sandies Shortbread Cookies, 100 Calorie RIGHT BITES", "calories": 468, "total_fat": 17.0, "sodium": null, "protein": 5.2, "sugars": 25.8, "carbohydrate": 73.9}, {"name": "MORNINGSTAR FARMS Breakfast Bacon Strips, unprepared, frozen", "calories": 346, "total_fat": 27.0, "sodium": null, "protein": 12.4, "sugars": 0.8, "carbohydrate": 14.3}, {"name": "Veal, braised, cooked, tongue, variety meats and by-products", "calories": 202, "total_fat": 10.0, "sodium": null, "protein": 25.85, "sugars": 0.0, "carbohydrate": 0.0}, {"name": "Lamb, braised, cooked, tongue, variety meats and by-products", "calories": 275, "total_fat": 20.0, "sodium": null, "protein": 21.57, "sugars": 0.0, "carbohydrate": 0.0}, {"name": "Elk, raw (Shoshone Bannock), eye of round, roast, free range", "calories": 98, "total_fat": 2.1, "sodium": null, "protein": 19.74, "sugars": 0.0, "carbohydrate": 0.0}, {"name": "Buffalo, raw (Shoshone Bannock), top round steak, free range", "calories": 97, "total_fat": 1.3, "sodium": null, "protein": 21.44, "sugars": 0.0, "carbohydrate": 0.0}, {"name": "Beverages, bottled, Cranberry-Apple Juice Drink, OCEAN SPRAY", "calories": 56, "total_fat": 0.0, "sodium": null, "protein": 0.29, "sugars": 13.12, "carbohydrate": 13.68}, {"name": "Chicken, roasted, cooked, meat only, leg, broilers or fryers", "calories": 174, "total_fat": 7.8, "sodium": null, "protein": 24.22, "sugars": 0.0, "carbohydrate": 0.0}, {"name": "Beverages, prepared with distilled water, brewed, black, tea", "calories": 1, "total_fat": 0.0, "sodium": null, "protein": 0.0, "sugars": 0.0, "carbohydrate": 0.3}, {"name": "Fast foods, and sausage, cheese, with egg, breakfast burrito", "calories": 277, "total_fat": 16.0, "sodium": null, "protein": 11.1, "sugars": 2.57, "carbohydrate": 22.97}, {"name": "Potatoes, whole milk and butter added, home-prepared, mashed", "calories": 113, "total_fat": 4.2, "sodium": null, "protein": 1.86, "sugars": 1.43, "carbohydrate": 16.81}, {"name": "Mushrooms, grilled, exposed to ultraviolet light, portabella", "calories": 29, "total_fat": 0.6, "sodium": null, "protein": 3.28, "sugars": 2.26, "carbohydrate": 4.44}, {"name": "Fish, dry heat, cooked, flatfish (flounder and sole species)", "calories": 86, "total_fat": 2.4, "sodium": null, "protein": 15.24, "sugars": 0.0, "carbohydrate": 0.0}, {"name": "Salami, 50% less sodium, sliced, dry, pork and beef, Italian", "calories": 350, "total_fat": 26.0, "sodium": null, "protein": 21.8, "sugars": 0.0, "carbohydrate": 6.4}, {"name": "Cereals ready-to-eat, Cinnamon Burst CHEERIOS, GENERAL MILLS", "calories": 375, "total_fat": 6.1, "sodium": null, "protein": 6.3, "sugars": 28.1, "carbohydrate": 83.2}, {"name": "Restaurant, from kids' menu, macaroni & cheese, family style", "calories": 151, "total_fat": 6.1, "sodium": null, "protein": 5.42, "sugars": 3.09, "carbohydrate": 18.8}, {"name": "Beef, broiled, cooked, patty, 97% lean meat / 3% fat, ground", "calories": 153, "total_fat": 4.5, "sodium": null, "protein": 26.36, "sugars": 0.0, "carbohydrate": 0.0}, {"name": "Beef, broiled, cooked, patty, 93% lean meat / 7% fat, ground", "calories": 193, "total_fat": 8.9, "sodium": null, "protein": 26.22, "sugars": 0.0, "carbohydrate": 0.0}, {"name": "Grapefruit, solids and liquids, juice pack, canned, sections", "calories": 37, "total_fat": 0.1, "sodium": null, "protein": 0.7, "sugars": 8.8, "carbohydrate": 9.21}, {"name": "Nuts, without salt added, dry roasted, hazelnuts or filberts", "calories": 646, "total_fat": 62.0, "sodium": null, "protein": 15.03, "sugars": 4.89, "carbohydrate": 17.6}, {"name": "Cereals ready-to-eat, KELLOGG'S SPECIAL K Blueberry, KELLOGG", "calories": 363, "total_fat": 1.5, "sodium": null, "protein": 6.9, "sugars": 26.7, "carbohydrate": 86.3}, {"name": "MORNINGSTAR FARMS Mediterranean Chickpea, unprepared, frozen", "calories": 200, "total_fat": 6.5, "sodium": null, "protein": 15.5, "sugars": 1.1, "carbohydrate": 19.8}, {"name": "Fish, raw (may have been previously frozen), Alaska, pollock", "calories": 56, "total_fat": 0.4, "sodium": null, "protein": 12.19, "sugars": 0.0, "carbohydrate": 0.0}, {"name": "CARRABBA'S ITALIAN GRILL, cheese ravioli with marinara sauce", "calories": 156, "total_fat": 6.0, "sodium": null, "protein": 7.96, "sugars": 4.15, "carbohydrate": 17.62}, {"name": "Tofu, prepared with calcium sulfate, dried-frozen (koyadofu)", "calories": 470, "total_fat": 30.0, "sodium": null, "protein": 52.43, "sugars": 0.0, "carbohydrate": 8.3}, {"name": "Beef, raw, separable lean only, flank, imported, New Zealand", "calories": 142, "total_fat": 6.7, "sodium": null, "protein": 20.53, "sugars": 0.0, "carbohydrate": 0.0}, {"name": "Cereals ready-to-eat, KELLOGG'S SPECIAL K Chocolatey Delight", "calories": 381, "total_fat": 7.3, "sodium": null, "protein": 6.5, "sugars": 29.9, "carbohydrate": 81.2}, {"name": "Veal, roasted, cooked, separable lean and fat, arm, shoulder", "calories": 183, "total_fat": 8.3, "sodium": null, "protein": 25.46, "sugars": 0.0, "carbohydrate": 0.0}, {"name": "Veal, braised, cooked, separable lean and fat, arm, shoulder", "calories": 236, "total_fat": 10.0, "sodium": null, "protein": 33.63, "sugars": 0.0, "carbohydrate": 0.0}, {"name": "Beef, simmered, cooked, heart, variety meats and by-products", "calories": 165, "total_fat": 4.7, "sodium": null, "protein": 28.48, "sugars": 0.0, "carbohydrate": 0.15}, {"name": "Beef, simmered, cooked, brain, variety meats and by-products", "calories": 151, "total_fat": 11.0, "sodium": null, "protein": 11.67, "sugars": 0.0, "carbohydrate": 1.48}, {"name": "Milk, with added vitamin A and vitamin D, 2% fat, evaporated", "calories": 107, "total_fat": 2.0, "sodium": null, "protein": 6.67, "sugars": 6.67, "carbohydrate": 15.74}, {"name": "Turkey, roasted, cooked, meat and skin, dark meat from whole", "calories": 206, "total_fat": 10.0, "sodium": null, "protein": 27.27, "sugars": 0.0, "carbohydrate": 0.07}, {"name": "Peas and carrots, with salt, drained, boiled, cooked, frozen", "calories": 48, "total_fat": 0.4, "sodium": null, "protein": 3.09, "sugars": 4.36, "carbohydrate": 10.12}, {"name": "Cookie, and chocolate coating, coconut, vanilla with caramel", "calories": 489, "total_fat": 26.0, "sodium": null, "protein": 3.5, "sugars": 35.8, "carbohydrate": 64.1}, {"name": "Cereals, high fiber, Cinnamon Swirl, Instant Oatmeal, QUAKER", "calories": 366, "total_fat": 4.8, "sodium": null, "protein": 8.79, "sugars": 14.7, "carbohydrate": 75.67}, {"name": "Beverages, frozen, concentrated, non-alcoholic, Cocktail mix", "calories": 287, "total_fat": 0.0, "sodium": null, "protein": 0.08, "sugars": 24.53, "carbohydrate": 71.6}, {"name": "Pork, unheated, extra lean and regular, boneless, ham, cured", "calories": 162, "total_fat": 8.4, "sodium": null, "protein": 18.26, "sugars": 0.0, "carbohydrate": 2.28}, {"name": "Babyfood, prepared with whole milk, with honey, rice, cereal", "calories": 115, "total_fat": 3.3, "sodium": null, "protein": 3.9, "sugars": 0.0, "carbohydrate": 17.1}, {"name": "Potsticker or wonton, unprepared, frozen, pork and vegetable", "calories": 136, "total_fat": 5.5, "sodium": null, "protein": 8.28, "sugars": 2.76, "carbohydrate": 13.28},
+        {"name": "Cowpeas, without salt, boiled, cooked, mature seeds, catjang", "calories": 117, "total_fat": 0.7, "sodium": null, "protein": 8.13, "sugars": 0.0, "carbohydrate": 20.32}
+
+        
+    
+]
