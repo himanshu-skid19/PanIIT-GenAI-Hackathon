@@ -18,8 +18,8 @@ def recipes_from_dataset(target_weight, number_of_days, age, weight, height, gen
             dinner = dinner_set[breakfast_set["Diet Type"] == diet_type].sample(1)
             s_factor, done = check_meal(breakfast,lunch, dinner, diet_type, target_weight, number_of_days, age, weight, height, gender, pa) 
             if(done):
-                return breakfast, lunch, dinner
-        return breakfast, lunch, dinner
+                return breakfast, lunch, dinner, s_factor
+        return breakfast, lunch, dinner, 1
     else:
         meal_set = recipe_dataset[(recipe_dataset['Meal Type'] == meal_type) & (recipe_dataset["Diet Type"] == diet_type)]
         meal = meal_set.sample(1)
