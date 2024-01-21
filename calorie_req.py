@@ -13,7 +13,7 @@ def total_energy_req(age, weight, height, gender, pa):
             pa_val = 1.27
         else:
             pa_val = 1.54
-        req = 864-9.72*age+pa_val*(14.2*weight+503*height)
+        req = 864-9.72*age+pa_val*(14.2*weight+5.03*height)
     else:
         if(pa == 'Sedentary'):
             pa_val = 1.0
@@ -23,7 +23,7 @@ def total_energy_req(age, weight, height, gender, pa):
             pa_val = 1.27
         else:
             pa_val = 1.45
-        req = 387-7.31*age+pa_val*(10.9*weight+660.7*height)
+        req = 387-7.31*age+pa_val*(10.9*weight+6.607*height)
     return req
 
 def check_meal(breakfast,lunch, dinner, diet_type, target_weight, number_of_days, age, weight, height, gender, pa):
@@ -41,17 +41,17 @@ def check_meal(breakfast,lunch, dinner, diet_type, target_weight, number_of_days
     percent_fat = 0.0
     req_fat = 0.0
     kcal_def = 0.0
-    for k in breakfast.keys:
+    for k in breakfast.keys():
         if(k == 'Protein'):
-            protein += breakfast[k]+lunch[k]+dinner[k]
+            protein += breakfast[k].values[0]+lunch[k].values[0]+dinner[k].values[0]
         elif(k == 'Calorie'):
-            calorie += breakfast[k]+lunch[k]+dinner[k]
+            calorie += breakfast[k].values[0]+lunch[k].values[0]+dinner[k].values[0]
         elif(k == 'Carbohydrate'):
-            carb += breakfast[k]+lunch[k]+dinner[k]
+            carb += breakfast[k].values[0]+lunch[k].values[0]+dinner[k].values[0]
         elif(k == 'Sugar'):
-            sugar += breakfast[k]+lunch[k]+dinner[k]
-        else:
-            fat += breakfast[k]+lunch[k]+dinner[k]
+            sugar += breakfast[k].values[0]+lunch[k].values[0]+dinner[k].values[0]
+        elif(k == 'Fat'):
+            fat += breakfast[k].values[0]+lunch[k].values[0]+dinner[k].values[0]
     flag = 0
     calorie = 4.0 * protein + 4.0 * (sugar + carb) + 9.0 * fat
     percent_protein = (4.0 * protein)/calorie
@@ -62,7 +62,7 @@ def check_meal(breakfast,lunch, dinner, diet_type, target_weight, number_of_days
         req_protein = 22.50
         req_carb = 52.50
         req_fat = 25
-        if not(req_protein- p_range  <= percent_protein <= req_protein+ p_range ):
+        if (req_protein- p_range  <= percent_protein <= req_protein+ p_range) is False:
             flag = 1
         if not(req_carb- p_range  <= percent_carb <= req_carb+ p_range ):
             flag = 1
@@ -72,7 +72,7 @@ def check_meal(breakfast,lunch, dinner, diet_type, target_weight, number_of_days
         req_protein = 27.50
         req_carb = 50.00
         req_fat = 22.50
-        if not(req_protein- p_range  <= percent_protein <= req_protein+ p_range ):
+        if not(req_protein- p_range  <= percent_protein <= req_protein+ p_range):
             flag = 1
         if not(req_carb- p_range <= percent_carb <= req_carb+ p_range ):
             flag = 1

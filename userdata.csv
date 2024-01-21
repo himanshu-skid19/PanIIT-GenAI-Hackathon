@@ -1,2 +1,3 @@
-Name,user_name,hashed_pass,age,gender,preference,height,weight,medical_history,target
-Himanshu,skidrow,03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4,20.0,Male,Non Veg,181.0,69.99,High Blood Pressure,Muscle Gain
+Name,user_name,hashed_pass,age,gender,preference,physical_activity, height,weight,target_weight,medical_history,target, 
+Himanshu,skidrow,03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4,20.0,Male,Non Veg,Sedentary,181.0,60.00,65.00,High Blood Pressure,Muscle Gain
+Saptarshi,zombie,8bb0cf6eb9b17d0f7d22b456f121257dc1254e1f01665370476383ea776df414,19.6,Male,Non Veg,Low Active,180.0,75.0,72.0,High Blood Pressure,Muscle Gain

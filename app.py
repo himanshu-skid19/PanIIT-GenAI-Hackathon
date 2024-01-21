@@ -2,45 +2,9 @@ from calorie_req import *
 from imports import *
 from recipes import *
 from helper import *
-
-OPENROUTER_API_KEY = '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'
-
-recipe_dataset = pd.read_csv('batch1.csv')
+from model import *
 
 
-# def get_model_response(target, meal_time = None, past_conditions = None, ingredients = None):
-#     if ingredients is None:
-#         return recipes_from_dataset(target, meal_time, past_conditions)
-    
-#     if meal_time is not None:
-#         prompt = f'''
-#             You are an expert nutritionist and chef.
-#             From the provided ingredients : {ingredients}
-#             Provide a healthy recipe for {meal_time}.       
-#             '''
-#     else:
-#         prompt = f'''
-#             You are an expert nutritionist and chef.
-#             From the provided ingredients : {ingredients}
-#             Provide one healthy recipe each for breakfast, lunch and dinner.       
-#             '''
-#     response = requests.post(
-#     url="https://openrouter.ai/api/v1/chat/completions",
-#     headers={
-#         "Authorization": f"Bearer {OPENROUTER_API_KEY}",
-#     },
-#     data=json.dumps({
-#         "model": "mistralai/mixtral-8x7b-instruct", # Optional
-#         "messages": [
-#         {"role": "user", "content": prompt}
-#         ]
-#     })
-#     )
-#     return response.text
-
-
-# print(get_model_response())
-# Initialize session states for dynamic content
 main_but_css = '''
     <style>
         .big-button {
@@ -70,39 +34,70 @@ st.markdown(bootstrap_css, unsafe_allow_html=True)
 st.markdown(main_but_css, unsafe_allow_html=True)
 
 
+if 'registration_page' not in st.session_state:
+    st.session_state['registration_page'] = False
 
+if 'login_page' not in st.session_state:
+    st.session_state['login_page'] = True
 
-# Layout of the sidebar
-with st.sidebar:
-    st.title("Control Panel")
+if 'is_logged_in' not in st.session_state:
+    st.session_state['is_logged_in'] = False
 
-    # Navigation or Section Heading
-    st.subheader("Navigation")
-    
-    # Interactive Widgets
-    selected_page = st.radio("Choose a section", ["Home", "Profile", "Meal History", "Register"])
+# Conditional rendering based on the session state
+if not st.session_state['is_logged_in']:
+    if st.session_state['login_page']:
+        # Show the login form
+        if login():
+            # If login is successful, hide the login page and show the home page
+            st.session_state['login_page'] = False
+            st.session_state["is_logged_in"] = True
+            st.experimental_rerun()
 
+        # If login is not successful, the login page remains visible
 
-
-    # Action Buttons
-    if st.button("Logout"):
-        st.sidebar.write("Button clicked!")
-
-    # # Use expander for advanced options to keep the sidebar clean
-    # with st.expander("Advanced Settings"):
-    #     st.checkbox("Enable Advanced Mode")
-    #     # More advanced widgets can be placed here
-
-if selected_page == "Home":
-    home_page()
-elif selected_page == "Profile":
-    profile_page()
-elif selected_page == "Meal History":
-    meal_history_page()
-elif selected_page == "Register":
+if st.session_state['registration_page']:
+    # Show the registration form
     data, submit_button = registration_page()
     if submit_button:
         with open('userdata.csv', 'a', newline='') as csvfile:
             csvwriter = csv.writer(csvfile)
             csvwriter.writerow(data)
+
+
+if st.session_state['is_logged_in']:    
+    # Layout of the sidebar
+    with st.sidebar:
+        st.title("Control Panel")
+
+        # Navigation or Section Heading
+        st.subheader("Navigation")
+        
+        # Interactive Widgets
+        selected_page = st.radio("Choose a section", ["Home", "Profile", "Meal History", "Register"])
+
+
+
+        # Action Buttons
+        if st.button("Logout"):
+            st.session_state['login_page'] = True
+            st.session_state['registration_page'] = False
+            st.session_state['is_logged_in'] = False
+        # # Use expander for advanced options to keep the sidebar clean
+        # with st.expander("Advanced Settings"):
+        #     st.checkbox("Enable Advanced Mode")
+        #     # More advanced widgets can be placed here
+            
+    if selected_page == "Home":
+        home_page()
+
+    elif selected_page == "Profile":
+        profile_page()
+    elif selected_page == "Meal History":
+        meal_history_page()
+    elif selected_page == "Register":
+        data, submit_button = registration_page()
+        if submit_button:
+            with open('userdata.csv', 'a', newline='') as csvfile:
+                csvwriter = csv.writer(csvfile)
+                csvwriter.writerow(data)
 
