@@ -21,6 +21,6 @@ def recipes_from_dataset(target_weight, number_of_days, age, weight, height, gen
                 return breakfast, lunch, dinner, s_factor
         return breakfast, lunch, dinner, 1
     else:
-        meal_set = recipe_dataset[(recipe_dataset['Meal Type'] == meal_type) & (recipe_dataset["Diet Type"] == diet_type)]
+        meal_set = recipe_dataset[(recipe_dataset['Meal Type'] == meal_type) & (recipe_dataset["Diet Type"] == diet_type) & (recipe_dataset['Veg'] == is_veg)]
         meal = meal_set.sample(1)
         return meal
