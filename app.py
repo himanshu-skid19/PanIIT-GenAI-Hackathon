@@ -1,6 +1,7 @@
 from calorie_req import *
 from imports import *
 from recipes import *
+from helper import *
 
 OPENROUTER_API_KEY = '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'
 
@@ -43,33 +44,33 @@ recipe_dataset = pd.read_csv('batch1.csv')
 main_but_css = '''
     <style>
         .big-button {
-            height: 3em;
-            width: 10em;
-            font-size: 1em;
-            font-weight: bold;
+            .btn-bd-primary {
+    --bs-btn-font-weight: 600;
+    --bs-btn-color: var(--bs-white);
+    --bs-btn-bg: var(--bd-violet-bg);
+    --bs-btn-border-color: var(--bd-violet-bg);
+    --bs-btn-hover-color: var(--bs-white);
+    --bs-btn-hover-bg: #{shade-color($bd-violet, 10%)};
+    --bs-btn-hover-border-color: #{shade-color($bd-violet, 10%)};
+    --bs-btn-focus-shadow-rgb: var(--bd-violet-rgb);
+    --bs-btn-active-color: var(--bs-btn-hover-color);
+    --bs-btn-active-bg: #{shade-color($bd-violet, 20%)};
+    --bs-btn-active-border-color: #{shade-color($bd-violet, 20%)};
+}
         }
     </style>
 
 '''
 
+bootstrap_css = """
+<link rel="stylesheet" href = "https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+"""
+
+st.markdown(bootstrap_css, unsafe_allow_html=True)
 st.markdown(main_but_css, unsafe_allow_html=True)
 
-# Backend functions to generate content
-def get_random_content():
-    # This function simulates getting content from the backend.
-    # Replace this with actual backend logic (e.g., database query, API call).
-    phrases = ["Hello, World!", "Streamlit is Awesome!", "Dynamic Content Here!"]
-    return random.choice(phrases)
 
-# Initialize session states for content if not already present
-for box_num in range(1, 4):
-    if f'content_box{box_num}' not in st.session_state:
-        st.session_state[f'content_box{box_num}'] = 'Click "Update Content" to generate content.'
 
-# Function to update content in the boxes from the backend
-def update_content_from_backend():
-    for box_num in range(1, 4):
-        st.session_state[f'content_box{box_num}'] = get_random_content()
 
 # Layout of the sidebar
 with st.sidebar:
@@ -79,7 +80,8 @@ with st.sidebar:
     st.subheader("Navigation")
     
     # Interactive Widgets
-    st.radio("Choose a section", ["Home", "Profile", "Meal History"], index=0)
+    selected_page = st.radio("Choose a section", ["Home", "Profile", "Meal History", "Register"])
+
 
 
     # Action Buttons
@@ -91,29 +93,16 @@ with st.sidebar:
     #     st.checkbox("Enable Advanced Mode")
     #     # More advanced widgets can be placed here
 
-# Layout of the main page
-st.title("Welcome!")
+if selected_page == "Home":
+    home_page()
+elif selected_page == "Profile":
+    profile_page()
+elif selected_page == "Meal History":
+    meal_history_page()
+elif selected_page == "Register":
+    data, submit_button = registration_page()
+    if submit_button:
+        with open('userdata.csv', 'a', newline='') as csvfile:
+            csvwriter = csv.writer(csvfile)
+            csvwriter.writerow(data)
 
-# Content boxes in the main area
-col1, col2, col3 = st.columns(3)
-with col1:
-    st.subheader("BreakFast")
-    st.write(st.session_state['content_box1'])
-    st.button("View Ingredients", key='breakfast')
-
-    
-with col2:
-    st.subheader("Lunch")
-    st.write(st.session_state['content_box2'])
-    st.button("View Ingredients", key = 'lunch')
-    
-
-with col3:
-    st.subheader("Dinner")
-    st.write(st.session_state['content_box3'])
-    st.button("View Ingredients", key = 'dinner')
-
-st.markdown('<button class="big-button">EAT NOW</button>', unsafe_allow_html=True) 
-
-# st.markdown"EAT NOW", key = "eat_now", **{'class': 'big-button'})
-# st.button("REPLAN", key = 'replan', **{'class' : 'big-button'})
