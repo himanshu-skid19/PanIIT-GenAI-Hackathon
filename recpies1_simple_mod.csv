@@ -1,0 +1,13 @@
+Meal Type,Meal Name,Diet Type,Calories,Protein,Fat,Carbohydrates,Sugars,Veg
+Breakfast,Scrambled Eggs with Spinach,Low-Sugar,200,14,15,2,1,0
+Lunch,Grilled Chicken Salad with Olive Oil Dressin,Low-Sugar,350,30,20,10,3,0
+Dinner,Baked Salmon with Steamed Broccoli,Low-Sugar,400,35,25,5,1,0
+Breakfast,Oatmeal with Fresh Berries,Balanced,250,6,4,45,7,1
+Lunch,Mixed Greens Salad with a Few Slices of Turkey,Balanced,200,15,8,15,4,0
+Dinner,Baked Cod with a Side of Quinoa,Balanced,350,30,8,35,2,0
+Breakfast,Oatmeal with Walnuts and Blueberries,Heart-Healthy,300,10,15,40,10,1
+Lunch,Grilled Salmon Salad with Mixed Greens,Heart-Healthy,400,30,20,10,4,0
+Dinner,Vegetable Stir-Fry with Brown Rice,Heart-Healthy,350,10,10,60,5,1
+Breakfast,Whole Wheat Waffles with Fruit Topping,Balanced,250,8,6,40,15,1
+Lunch,Macaroni and Cheese with Peas,Balanced,350,15,15,40,5,1
+Dinner,Spahetti with Turkey Meatballs,Balanced,400,25,15,45,8,0

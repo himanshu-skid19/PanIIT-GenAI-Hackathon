@@ -1,0 +1,46 @@
+Meal Type,Meal Name,Diet Type,Calories,Protein,Fat,Sugar,Veg
+Breakfast,Scrambled Eggs with Spinach,Low-Sugar,200,14,15,1,0
+Breakfast,Greek Yogurt with Nuts,Low-Sugar,220,10,18,7,1
+Breakfast,Avocado and Tomato Omelette,Low-Sugar,250,15,20,2,0
+Breakfast,Cottage Cheese with Sliced Cucumber,Low-Sugar,180,15,5,5,1
+Breakfast,Whole Grain Toast with Almond Butter,Low-Sugar,300,8,18,3,1
+Lunch,Grilled Chicken Salad with Olive Oil Dressing,Low-Sugar,350,30,20,3,0
+Lunch,Turkey and Cheese Lettuce Wraps,Low-Sugar,300,25,15,2,0
+Lunch,Quinoa and Vegetable Stir-Fry,Low-Sugar,320,12,10,4,1
+Lunch,Lentil Soup with Mixed Vegetables,Low-Sugar,240,18,3,4,1
+Lunch,Tuna Salad on Whole Grain Bread,Low-Sugar,350,25,15,5,0
+Dinner,Baked Salmon with Steamed Broccoli,Low-Sugar,400,35,25,1,0
+Dinner,Grilled Pork Chops with Asparagus,Low-Sugar,450,40,30,2,0
+Dinner,Beef and Vegetable Stew,Low-Sugar,350,35,12,5,0
+Dinner,Stir-Fried Shrimp and Green Beans,Low-Sugar,300,25,15,4,0
+Dinner,Chicken and Mushroom Cauliflower Rice,Low-Sugar,320,30,12,5,0
+Breakfast,Oatmeal with Fresh Berries,Balanced,250,6,5,12,1
+Breakfast,Yogurt Parfait with Granola,Balanced,300,10,7,15,1
+Breakfast,Toast with Avocado and Poached Egg,Balanced,350,15,20,3,0
+Breakfast,Muesli with Low-Fat Milk,Balanced,300,10,4,12,1
+Breakfast,Pancakes with a Small Serving of Bacon,Balanced,400,15,20,8,0
+Lunch,Minestrone Soup with a Small Serving of Chicken,Balanced,350,18,8,6,0
+Lunch,Mixed Greens Salad with a Few Slices of Turkey,Balanced,250,20,10,4,0
+Lunch,Whole Wheat Pasta with Tomato Sauce and a Small Amount of Ground Beef,Balanced,400,20,10,8,0
+Lunch,Veggie Burger with a Slice of Ham,Balanced,450,25,20,5,0
+Lunch,Tuna Sandwich with Lots of Vegetables,Balanced,300,25,10,6,0
+Dinner,Baked Cod with a Side of Quinoa,Balanced,400,35,10,2,0
+Dinner,Chicken Stir-Fry with Lots of Vegetables,Balanced,350,30,12,6,0
+Dinner,Small Portion of Meatloaf with Steamed Vegetables,Balanced,500,35,25,4,0
+Dinner,Shrimp Fried Rice with Extra Veggies,Balanced,400,25,12,3,0
+Dinner,Grilled Chicken Breast with a Large Side Salad,Balanced,350,40,15,4,0
+Breakfast,Oatmeal with Walnuts and Blueberries,Heart-Healthy,300,10,15,10,1
+Breakfast,Whole Grain Toast with Avocado,Heart-Healthy,250,6,15,3,1
+Breakfast,Spinach and Tomato Frittata,Heart-Healthy,200,15,12,2,1
+Breakfast,Smoothie with Berries,Heart-Healthy,220,6,5,12,1
+Breakfast,Whole Wheat Pancakes with Fruit Compote,Heart-Healthy,350,8,10,15,1
+Lunch,Grilled Salmon Salad with Mixed Greens,Heart-Healthy,400,30,25,4,0
+Lunch,Lentil and Vegetable Soup,Heart-Healthy,250,15,5,5,1
+Lunch,Quinoa Salad with Cherry Tomatoes and Cucumbers,Heart-Healthy,300,10,10,6,1
+Lunch,Turkey Sandwich on Whole Grain Bread with Avocado,Heart-Healthy,350,25,15,5,0
+Lunch,Veggie Wrap with Hummus,Heart-Healthy,300,10,12,4,1
+Dinner,Baked Chicken with Roasted Vegetables,Heart-Healthy,400,40,15,5,1
+Dinner,Grilled Tuna Steak with Steamed Greens,Heart-Healthy,350,35,10,2,1
+Dinner,Vegetable Stir-Fry with Brown Rice,Heart-Healthy,350,10,10,5,0
+Dinner,Turkey Chili with Beans,Heart-Healthy,450,35,15,6,1
+Dinner,Pasta with Olive Oil,Heart-Healthy,400,12,15,7,0
