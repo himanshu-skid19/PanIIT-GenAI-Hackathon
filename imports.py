@@ -7,3 +7,4 @@ from langchain.vectorstores import FAISS
 from langchain.schema.document import Document
 import requests
 import pandas as pd
+import random
