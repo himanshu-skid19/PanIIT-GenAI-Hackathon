@@ -88,6 +88,16 @@ def check_meal(breakfast,lunch, dinner, diet_type, target_weight, number_of_days
             flag = 1
         if not(req_fat- p_range  <= percent_fat<= req_fat+ p_range ):
             flag = 1
+    elif(diet_type == 'Muscle-Building'):
+        req_protein = 30.00
+        req_carb = 50.00
+        req_fat = 20.00
+        if not(req_protein- p_range  <= percent_protein <= req_protein+ p_range ):
+            flag = 1
+        if not(req_carb- p_range  <= percent_carb <= req_carb+ p_range ):
+            flag = 1
+        if not(req_fat- p_range  <= percent_fat<= req_fat+ p_range ):
+            flag = 1
     kcal_def = ((weight-target_weight)*kcal_per_kg)/number_of_days
     kcal_def_actual = cal_req-calorie
     range_cal_def = 0.05

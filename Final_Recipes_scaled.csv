@@ -1,0 +1,88 @@
+,Meal Type,Meal Name,Diet Type,Calories,Protein,Fat,Sugars,Veg,Carbohydrates
+0,Breakfast,Scrambled Eggs with Spinach,Low-Sugar,400,28,30,2,0,4.0
+1,Breakfast,Greek Yogurt with Nuts,Low-Sugar,440,20,36,14,1,5.5
+2,Breakfast,Avocado and Tomato Omelette,Low-Sugar,500,30,40,4,0,4.0
+3,Breakfast,Cottage Cheese with Sliced Cucumber,Low-Sugar,360,30,10,10,1,35.0
+4,Breakfast,Whole Grain Toast with Almond Butter,Low-Sugar,600,16,36,6,1,51.5
+5,Lunch,Grilled Chicken Salad with Olive Oil Dressing,Low-Sugar,700,60,40,6,0,23.5
+6,Lunch,Turkey and Cheese Lettuce Wraps,Low-Sugar,600,50,30,4,0,31.5
+7,Lunch,Quinoa and Vegetable Stir-Fry,Low-Sugar,640,24,20,8,1,89.0
+8,Lunch,Lentil Soup with Mixed Vegetables,Low-Sugar,480,36,6,8,1,68.5
+9,Lunch,Tuna Salad on Whole Grain Bread,Low-Sugar,700,50,30,10,0,55.0
+10,Dinner,Baked Salmon with Steamed Broccoli,Low-Sugar,800,70,50,2,0,17.0
+11,Dinner,Grilled Pork Chops with Asparagus,Low-Sugar,900,80,60,4,0,9.0
+12,Dinner,Beef and Vegetable Stew,Low-Sugar,700,70,24,10,0,48.5
+13,Dinner,Stir-Fried Shrimp and Green Beans,Low-Sugar,600,50,30,8,0,30.5
+14,Dinner,Chicken and Mushroom Cauliflower Rice,Low-Sugar,640,60,24,10,0,43.5
+15,Breakfast,Oatmeal with Fresh Berries,Balanced,500,12,10,24,1,84.5
+16,Breakfast,Yogurt Parfait with Granola,Balanced,600,20,14,30,1,91.0
+17,Breakfast,Toast with Avocado and Poached Egg,Balanced,700,30,40,6,0,53.5
+18,Breakfast,Muesli with Low-Fat Milk,Balanced,600,20,8,24,1,106.0
+19,Breakfast,Pancakes with a Small Serving of Bacon,Balanced,800,30,40,16,0,76.0
+20,Lunch,Minestrone Soup with a Small Serving of Chicken,Balanced,700,36,16,12,0,100.0
+21,Lunch,Mixed Greens Salad with a Few Slices of Turkey,Balanced,500,40,20,8,0,38.0
+22,Lunch,Whole Wheat Pasta with Tomato Sauce and a Small Amount of Ground Beef,Balanced,800,40,20,16,0,111.0
+23,Lunch,Veggie Burger with a Slice of Ham,Balanced,900,50,40,10,0,82.5
+24,Lunch,Tuna Sandwich with Lots of Vegetables,Balanced,600,50,20,12,0,52.0
+25,Dinner,Baked Cod with a Side of Quinoa,Balanced,800,70,20,4,0,84.0
+26,Dinner,Chicken Stir-Fry with Lots of Vegetables,Balanced,700,60,24,12,0,58.0
+27,Dinner,Small Portion of Meatloaf with Steamed Vegetables,Balanced,1000,70,50,8,0,65.5
+28,Dinner,Shrimp Fried Rice with Extra Veggies,Balanced,800,50,24,6,0,94.5
+29,Dinner,Grilled Chicken Breast with a Large Side Salad,Balanced,700,80,30,8,0,25.5
+30,Breakfast,Oatmeal with Walnuts and Blueberries,Heart-Healthy,600,20,30,20,1,57.5
+31,Breakfast,Whole Grain Toast with Avocado,Heart-Healthy,500,12,30,6,1,44.0
+32,Breakfast,Spinach and Tomato Frittata,Heart-Healthy,400,30,24,4,1,15.0
+33,Breakfast,Smoothie with Berries,Heart-Healthy,440,12,10,24,1,69.5
+34,Breakfast,Whole Wheat Pancakes with Fruit Compote,Heart-Healthy,700,16,20,30,1,106.5
+35,Lunch,Grilled Salmon Salad with Mixed Greens,Heart-Healthy,800,60,50,8,0,25.5
+36,Lunch,Lentil and Vegetable Soup,Heart-Healthy,500,30,10,10,1,70.0
+37,Lunch,Quinoa Salad with Cherry Tomatoes and Cucumbers,Heart-Healthy,600,20,20,12,1,82.0
+38,Lunch,Turkey Sandwich on Whole Grain Bread with Avocado,Heart-Healthy,700,50,30,10,0,55.0
+39,Lunch,Veggie Wrap with Hummus,Heart-Healthy,600,20,24,8,1,74.0
+40,Dinner,Baked Chicken with Roasted Vegetables,Heart-Healthy,800,80,30,10,1,50.0
+41,Dinner,Grilled Tuna Steak with Steamed Greens,Heart-Healthy,700,70,20,4,1,59.0
+42,Dinner,Vegetable Stir-Fry with Brown Rice,Heart-Healthy,700,20,20,10,0,107.5
+43,Dinner,Turkey Chili with Beans,Heart-Healthy,900,70,30,12,1,84.5
+44,Dinner,Pasta with Olive Oil,Heart-Healthy,800,24,30,14,0,105.0
+45,Breakfast,Banana and Peanut Butter Protein Shake,Muscle-Building,700,50,20,50,1,80.0
+46,Breakfast,Spinach and Feta Cheese Frittata,Muscle-Building,520,36,36,4,1,10.0
+47,Breakfast,Mixed Berry Smoothie with Protein Powder,Muscle-Building,600,50,10,40,1,70.0
+48,Breakfast,Whole Wheat Pancakes with Blueberries,Muscle-Building,700,24,20,30,1,110.0
+49,Breakfast,Vegetable and Cheese Breakfast Burrito,Muscle-Building,800,40,40,8,1,80.0
+50,Breakfast,Smoked Salmon on Whole Grain Bagel,Muscle-Building,640,44,20,12,0,80.0
+51,Breakfast,Egg White and Avocado Toast,Muscle-Building,500,30,20,8,0,60.0
+52,Breakfast,Greek Yogurt with Honey and Almonds,Muscle-Building,560,40,20,36,1,50.0
+53,Breakfast,Chia Seed and Berry Parfait,Muscle-Building,600,20,20,40,1,80.0
+54,Breakfast,Tofu and Vegetable Scramble,Muscle-Building,700,40,44,10,1,30.0
+55,Lunch,Grilled Tuna Salad with Mixed Greens,Muscle-Building,700,60,30,8,0,20.0
+56,Lunch,Roasted Chicken and Quinoa Bowl,Muscle-Building,900,70,30,10,0,80.0
+57,Lunch,Turkey Breast and Avocado Wrap,Muscle-Building,800,50,40,6,0,70.0
+58,Lunch,Lentil and Vegetable Salad,Muscle-Building,700,36,20,12,1,90.0
+59,Lunch,Caprese Sandwich with Whole Wheat Bread,Muscle-Building,600,30,24,10,1,60.0
+60,Lunch,Chicken Caesar Wrap (No Croutons),Muscle-Building,800,60,40,6,0,50.0
+61,Lunch,Asian-Style Beef and Noodle Salad,Muscle-Building,900,50,40,14,0,80.0
+62,Lunch,Mediterranean Chickpea and Feta Salad,Muscle-Building,700,30,30,16,0,80.0
+63,Lunch,Sushi Roll with Brown Rice and Vegetables,Muscle-Building,600,24,10,12,0,100.0
+64,Lunch,Shrimp and Avocado Salad,Muscle-Building,700,50,40,6,0,30.0
+65,Dinner,Grilled Sirloin Steak with Steamed Veggies,Muscle-Building,1000,80,60,8,0,20.0
+66,Dinner,Baked Lemon Herb Chicken Breast,Muscle-Building,800,70,50,2,0,10.0
+67,Dinner,Vegetable Stir-Fry with Tofu and Brown Rice,Muscle-Building,900,40,30,16,1,110.0
+68,Dinner,Salmon Fillet with Quinoa and Asparagus,Muscle-Building,1000,70,50,6,0,80.0
+69,Dinner,Spicy Black Bean and Corn Tacos,Muscle-Building,800,30,30,16,1,100.0
+70,Dinner,Roasted Turkey and Sweet Potato Mash,Muscle-Building,900,80,30,10,0,70.0
+71,Dinner,Pork Tenderloin with Brussels Sprouts,Muscle-Building,800,70,40,8,1,30.0
+72,Dinner,Zucchini Noodles with Pesto and Pine Nuts,Muscle-Building,700,20,50,10,0,40.0
+73,Dinner,Moroccan Chickpea Stew,Muscle-Building,600,24,20,24,0,80.0
+74,Dinner,Beef and Broccoli with Brown Rice,Muscle-Building,900,60,30,10,0,100.0
+75,Breakfast,Scrambled Eggs with Spinach,Low-Sugar,400,28,30,2,0,4.0
+76,Lunch,Grilled Chicken Salad with Olive Oil Dressin,Low-Sugar,700,60,40,6,0,20.0
+77,Dinner,Baked Salmon with Steamed Broccoli,Low-Sugar,800,70,50,2,0,10.0
+78,Breakfast,Oatmeal with Fresh Berries,Balanced,500,12,8,14,1,90.0
+79,Lunch,Mixed Greens Salad with a Few Slices of Turkey,Balanced,400,30,16,8,0,30.0
+80,Dinner,Baked Cod with a Side of Quinoa,Balanced,700,60,16,4,0,70.0
+81,Breakfast,Oatmeal with Walnuts and Blueberries,Heart-Healthy,600,20,30,20,1,80.0
+82,Lunch,Grilled Salmon Salad with Mixed Greens,Heart-Healthy,800,60,40,8,0,20.0
+83,Dinner,Vegetable Stir-Fry with Brown Rice,Heart-Healthy,700,20,20,10,1,120.0
+84,Breakfast,Whole Wheat Waffles with Fruit Topping,Balanced,500,16,12,30,1,80.0
+85,Lunch,Macaroni and Cheese with Peas,Balanced,700,30,30,10,1,80.0
+86,Dinner,Spahetti with Turkey Meatballs,Balanced,800,50,30,16,0,90.0

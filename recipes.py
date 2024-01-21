@@ -1,38 +1,26 @@
 from imports import *
 from calorie_req import *
 
-recipe_dataset = pd.read_csv('batch1.csv')
+recipe_dataset = pd.read_csv("Final_Recipies.csv")
 
-def recipes_from_dataset(target, meal_time = None, diet_type = "balanced", past_conditions = None):
-    if past_conditions is not None:
-        df = recipe_dataset[(recipe_dataset["target"] == target) and (recipe_dataset["condition"] == past_conditions) and (recipe_dataset["diet_type"] == diet_type)]
-    else:
-        df = recipe_dataset[(recipe_dataset["target"] == target) and (recipe_dataset["diet_type"] ==diet_type)]
-    if meal_time is None:
-        breakfast_set = df[df['meal_time'] == "breakfast"]
-        flag_b = False
-        while flag_b == False:
+def recipes_from_dataset(target_weight, number_of_days, age, weight, height, gender, pa, is_veg, meal_type = None, diet_type = "Balanced"):
+    if meal_type is None:
+        s_factor = 1
+        done = False
+        counter = 0
+        breakfast_set = recipe_dataset[(recipe_dataset['meal_time'] == "Breakfast") & (recipe_dataset['Diet Type'] == diet_type) & (recipe_dataset['Veg'] == is_veg)]
+        lunch_set = recipe_dataset[(recipe_dataset['meal_time'] == "Lunch") & (recipe_dataset['Diet Type'] == diet_type) & (recipe_dataset['Veg'] == is_veg)]
+        dinner_set = recipe_dataset[(recipe_dataset['meal_time'] == "Dinner") & (recipe_dataset['Diet Type'] == diet_type) & (recipe_dataset['Veg'] == is_veg)]
+        while(counter < 20):
+            counter += 1
             breakfast = breakfast_set.sample(1)
-            if total_energy_req(breakfast):
-                flag_b = True
-
-        
-        lunch_set = df[df['meal_time'] == "lunch"]
-        flag_l = False
-        while flag_l == False:
             lunch = lunch_set.sample(1)
-            if total_energy_req(lunch):
-                flag_l = True
-         
-        
-        dinner_set = df[df['meal_time'] == "dinner"]
-        while flag_l == False:
             dinner = dinner_set.sample(1)
-            if total_energy_req(lunch):
-                flag_l = True
-         
-        return breakfast, lunch, dinner
+            s_factor, done = check_meal(breakfast,lunch, dinner, diet_type, target_weight, number_of_days, age, weight, height, gender, pa) 
+            if(done):
+                return breakfast, lunch, dinner, s_factor
+        return breakfast, lunch, dinner, 1
     else:
-        meal_set = df[df['meal_time'] == meal_time]
+        meal_set = recipe_dataset[(recipe_dataset['Meal Type'] == meal_type) & (recipe_dataset["Diet Type"] == diet_type) & (recipe_dataset['Veg'] == is_veg)]
         meal = meal_set.sample(1)
         return meal
