@@ -23,7 +23,7 @@ We give the user option to provide the available ingredients, and our AI makes a
 Users can set specific health and fitness goals, such as weight loss, muscle gain, or improved energy levels. AI adjusts meal plans accordingly, continuously optimizing them to align with the user's progress.
 
 ## Installation and Setup
-
+Clone this repository and follow these steps:
 1. **Install Dependencies:**
    Install the required libraries using:
 ```python
