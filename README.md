@@ -1,9 +1,10 @@
-# Diet Planner Application
+<h1 align="center">DineWise AI - Transforming India's Nutrition</h1>
 
 This Project is part of the PanIIT GenAI Hackathon, with the aim to develop a tool that leverages AI that serves the greater good, showcasing the positive potential of AI in our society.
 
 ## Introduction
-Our solution for this was to develop a diet planner application to serve its users with automated diet planning and meal recommendations. With busy schedules, conflicting dietary advice, and individual health goals, people often struggle to make informed choices about their nutrition.
+We develop a diet planner application to serve its users with automated diet planning and meal recommendations. With busy schedules, conflicting dietary advice, and individual health goals, people often struggle to make informed choices about their nutrition.
+
 Our AI-integrated diet planner application emerges as a timely and essential solution for this.
 
 ## Features
@@ -16,13 +17,26 @@ Users can input their daily food intake and receive instant feedback on their nu
 ### 3. Recipe Suggestion
 The application can suggest personalized recipes based on users' dietary preferences and goals.
 AI can optimize recipes for nutrient balance and variety, making it easier for users to diversify their diets.
+We give the user option to provide the available ingredients, and our AI makes a healthy recipe tailored to the user's requirements. 
 
 ### 4. Goal Oriented Planning
 Users can set specific health and fitness goals, such as weight loss, muscle gain, or improved energy levels. AI adjusts meal plans accordingly, continuously optimizing them to align with the user's progress.
 
-## Installation
+## Installation and Setup
 
-Provide instructions on how to install or set up your project. Include any dependencies that need to be installed and any special configurations required.
+1. **Install Dependencies:**
+   Install the required libraries using:
+```python
+pip install -r requirements.txt
+```
+2. **API Keys Setup:**
+Add your Mixtral API key in the "model.py" file:
+  ```python
+  OPENROUTER_API_KEY = '<INSERT API KEY HERE>'
+  ```
 
-```bash
-pip install your-package
+3. **Run the Application:**
+Execute the following command to run the app:
+```python
+streamlit run app.py
+```

@@ -31,25 +31,13 @@ def get_model_response(target_weight, number_of_days, age, weight, height, gende
             breakfast, lunch, dinner, scale_factor = recipes_from_dataset(target_weight, number_of_days, age, weight, height, gender, pa, is_veg, meal_type, diet_type)
             for i in [breakfast, lunch, dinner]:
                 i[['Calories','Protein', 'Fat', 'Sugars', 'Carbohydrates']] = i[['Calories','Protein', 'Fat', 'Sugars', 'Carbohydrates']]*scale_factor
+                final = []
                 prompt = f"""
                         You are an expert nutritionist and chef.
                         For the following meal:
                         Meal: {i.iloc[0]}
                         The description of the meal should include the meal name, the time of the day (breakfast, lunch or dinner), the calories and other nutrients of the meal and the ingredients required to make that meal. 
-                        Give your output in a json format.  
-                        the json output should be structured as follows
-                        '''
-                           {
-                               "Meal" : "Meal_name",
-                               "Desciption" : "Description about the meal",
-                               "Calories" : "Total calories in the meal",
-                               "Protein" : "Total protein in the meal",
-                               "Fat" : "Total fats in the meal",
-                               "Carbohydrates" : "Total carbohydrates in the meal",
-                               "Sugars" : "Total sugars in the meal",
-                               "Ingredients" : "Dictionary containing the ingredients and other info"
-                           } 
-                        '''
+                        
                         """
                 response = http_request(prompt)
                 response = json.loads(response)
@@ -65,7 +53,6 @@ def get_model_response(target_weight, number_of_days, age, weight, height, gende
                     You are an expert nutritionist and chef.
                     Make one healthy, {diet_type}, {diet} meal for {i}.
                     Also provide the "Calories", "Fat", "Sugars", "Carbohydrates", "Protein" in the meal.
-                    Give your output in a json format.       
                     '''
                 response = http_request(prompt)
                 response = json.loads(response)
@@ -81,7 +68,6 @@ def get_model_response(target_weight, number_of_days, age, weight, height, gende
                 You are provided with the following set of ingredients : {ingredients}
                 Use the provided ingredients to make one healthy, {diet_type} meal for {meal_type}.
                 Also provide the "Calories", "Fat", "Sugars", "Carbohydrates", "Protein" in the meal.   
-                Give your output in a json format.        
                 '''
             response = http_request(prompt)
             response = json.loads(response)
@@ -95,7 +81,8 @@ def get_model_response(target_weight, number_of_days, age, weight, height, gende
                     You are provided with the following set of ingredients : {ingredients}
                     Use the provided ingredients to make one healthy, {diet_type} meal for {i}.
                     Also provide the "Calories", "Fat", "Sugars", "Carbohydrates", "Protein" in the meal.
-                    Give your output in a json format.       
+                    Give your output in a json format.      
+                    You must only give a structured json as your output and nothing else 
                     '''
                 response = http_request(prompt)
                 response = json.loads(response)

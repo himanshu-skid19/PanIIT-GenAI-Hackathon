@@ -51,6 +51,7 @@ if not st.session_state['is_logged_in']:
             # If login is successful, hide the login page and show the home page
             st.session_state['login_page'] = False
             st.session_state["is_logged_in"] = True
+
             st.experimental_rerun()
 
         # If login is not successful, the login page remains visible
@@ -73,7 +74,7 @@ if st.session_state['is_logged_in']:
         st.subheader("Navigation")
         
         # Interactive Widgets
-        selected_page = st.radio("Choose a section", ["Home", "Profile", "Meal History", "Register"])
+        selected_page = st.radio("Choose a section", ["Home", "Profile", "Register"])
 
 
 
@@ -89,11 +90,10 @@ if st.session_state['is_logged_in']:
             
     if selected_page == "Home":
         home_page()
+        
 
     elif selected_page == "Profile":
         profile_page()
-    elif selected_page == "Meal History":
-        meal_history_page()
     elif selected_page == "Register":
         data, submit_button = registration_page()
         if submit_button:
