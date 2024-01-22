@@ -40,3 +40,8 @@ Execute the following command to run the app:
 ```python
 streamlit run app.py
 ```
+## Team Members
+1. Himanshu Singhal
+2. Parth Agarwal
+3. Sarthak Kapoor
+4. Saptarshi Mukherjee
