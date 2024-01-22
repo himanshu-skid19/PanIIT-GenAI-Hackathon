@@ -2,7 +2,7 @@ from imports import *
 from recipes import *
 from calorie_req import *
 
-OPENROUTER_API_KEY = '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'
+OPENROUTER_API_KEY = '<INSERT API KEY HERE>'
 
 recipe_dataset = pd.read_csv('batch1.csv')
 
